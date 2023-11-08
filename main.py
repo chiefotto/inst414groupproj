@@ -7,7 +7,7 @@ import sys
 
 api = 'https://api.nhtsa.gov'
 
-endpoint = '/SafetyRatings'
+endpoint = '/SafetyRatings/modelyear/2013/make/Honda/model/Accord'
 
 
 response = requests.get(api+endpoint)
