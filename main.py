@@ -17,3 +17,7 @@ data = response.json()
 print (data)
 ### returns list of dictionaries 
 
+
+
+
+### inital reuqeust needs to get all the makes for a year, then 
