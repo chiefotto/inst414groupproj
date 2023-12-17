@@ -1,2149 +1,2146 @@
 <?xml version='1.0' encoding='utf-8'?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
-  <key id="d0" for="edge" attr.name="weight" attr.type="long" />
-  <graph edgedefault="undirected">
-    <node id="AIR BAGS" />
-    <node id="Mazda North American Operations" />
-    <node id="SUSPENSION" />
-    <node id="Great Dane Trailers" />
-    <node id="ELECTRICAL SYSTEM" />
-    <node id="Tesla, Inc." />
-    <node id="Mercedes-Benz USA, LLC" />
-    <node id="ENGINE AND ENGINE COOLING" />
-    <node id="Harley-Davidson Motor Company" />
-    <node id="EXTERIOR LIGHTING" />
-    <node id="Forest River, Inc." />
-    <node id="STRUCTURE" />
-    <node id="REV Recreation Group" />
-    <node id="Altec Industries, Inc." />
-    <node id="SEAT BELTS" />
-    <node id="Volvo Car USA, LLC" />
-    <node id="Lamborghini (Automobili Lamborghini)" />
-    <node id="Kia America, Inc." />
-    <node id="Indian Motorcycle Company" />
-    <node id="TIRES" />
-    <node id="Sumitomo Rubber USA, LLC" />
-    <node id="Keystone RV Company" />
-    <node id="PILOTCAR EV INC." />
-    <node id="Pierce Manufacturing" />
-    <node id="Kovatch Mobile Equipment Corp." />
-    <node id="Ferrara Fire Apparatus, Inc." />
-    <node id="POWER TRAIN" />
-    <node id="BMW of North America, LLC" />
-    <node id="STEERING" />
-    <node id="Terberg Benschop B.V." />
-    <node id="Textron Specialized Vehicles" />
-    <node id="EQUIPMENT" />
-    <node id="Volvo Trucks North America" />
-    <node id="Gillig, LLC" />
-    <node id="Nissan North America, Inc." />
-    <node id="Porsche Cars North America, Inc." />
-    <node id="Eldorado National- California, Inc." />
-    <node id="Spartan Fire, LLC" />
-    <node id="Daimler Vans USA, LLC" />
-    <node id="FORWARD COLLISION AVOIDANCE" />
-    <node id="Prevost Car (US) Inc." />
-    <node id="ELECTRONIC STABILITY CONTROL" />
-    <node id="Tiffin Motorhomes, Inc." />
-    <node id="Ford Motor Company" />
-    <node id="Chrysler (FCA US, LLC)" />
-    <node id="Cake 0 Emission USA Inc" />
-    <node id="SERVICE BRAKES, HYDRAULIC" />
-    <node id="PARKING BRAKE" />
-    <node id="ENGINE" />
-    <node id="McLaren Automotive Incorporated" />
-    <node id="EQUIPMENT ADAPTIVE/MOBILITY" />
-    <node id="Corp. Micro Bird, Inc." />
-    <node id="General Motors, LLC" />
-    <node id="Lode-King Industries, Ltd." />
-    <node id="Ricon Corporation" />
-    <node id="Grand Design RV, LLC" />
-    <node id="Jaguar Land Rover North America, LLC" />
-    <node id="VEHICLE SPEED CONTROL" />
-    <node id="Mack Trucks, Inc." />
-    <node id="Nova Bus (US) Inc." />
-    <node id="Honda (American Honda Motor Co.)" />
-    <node id="Big Tex Trailer Manufacturing, Inc." />
-    <node id="Rivian Automotive, LLC" />
-    <node id="Blue Bird Body Company" />
-    <node id="DECKED" />
-    <node id="CFMOTO POWERSPORTS, INC." />
-    <node id="Airstream, Inc." />
-    <node id="LATCHES/LOCKS/LINKAGES" />
-    <node id="Xos, Inc." />
-    <node id="Jayco, Inc." />
-    <node id="SEATS" />
-    <node id="BCS Automotive Interface Solutions US, L" />
-    <node id="Lonestar Specialty Vehicles" />
-    <node id="Triple E Recreational Vehicles" />
-    <node id="Pratt Intermodal Chassis" />
-    <node id="Newell Coach Corp." />
-    <node id="Thor Motor Coach" />
-    <node id="Subaru of America, Inc." />
-    <node id="Southeast Toyota Distributors, LLC" />
-    <node id="Hino Motors Sales U.S.A., Inc." />
-    <node id="Kibbi, LLC" />
-    <node id="Volkswagen Group of America, Inc." />
-    <node id="Sentury Tire Thailand" />
-    <node id="Cruise LLC" />
-    <node id="PACCAR Incorporated" />
-    <node id="Custom Fire Apparatus, Inc." />
-    <node id="Alexis Fire Equipment Company" />
-    <node id="Winnebago Towable" />
-    <node id="CHILD SEAT" />
-    <node id="Evenflo Company, Inc." />
-    <node id="Gulf Stream Coach, Inc." />
-    <node id="WHEELS" />
-    <node id="Autocar, LLC" />
-    <node id="Daimler Trucks North America, LLC" />
-    <node id="Hollywood Racks" />
-    <node id="VISIBILITY" />
-    <node id="Toyota Motor Engineering &amp; Manufacturing" />
-    <node id="Triumph Motorcycles America, Ltd." />
-    <node id="Toyo Tire Holdings of Americas, Inc." />
-    <node id="BACK OVER PREVENTION" />
-    <node id="Chinook Motor Coach, LLC" />
-    <node id="Forest River Bus, LLC" />
-    <node id="Winnebago Industries, Inc." />
-    <node id="Weldon Division of Akron Brass" />
-    <node id="New Flyer of America, Inc." />
-    <node id="Trans-Air Manufacturing Corp." />
-    <node id="Midwest Automotive Designs, LLC" />
-    <node id="SERVICE BRAKES, AIR" />
-    <node id="Lion Electric Company" />
-    <node id="Lucid USA, Inc." />
-    <node id="Alliance RV, LLC" />
-    <node id="Terex South Dakota, Inc." />
-    <node id="Harbor Freight Tools" />
-    <node id="Proterra Operating Company, Inc." />
-    <node id="Cummins, Inc." />
-    <node id="Ferrari North America, Inc." />
-    <node id="Storyteller Overland" />
-    <node id="Arcimoto Inc" />
-    <node id="Hyundai Translead" />
-    <node id="T.A. Pelsue" />
-    <node id="Allison Transmission, Inc." />
-    <node id="AMETEK ICVS" />
-    <node id="Platinum Driveline, Inc." />
-    <node id="Transfer Flow Inc - Chico, CA" />
-    <node id="Dorman Products, Inc." />
-    <node id="Lightning eMotors Inc." />
-    <node id="Volvo Bus Corporation" />
-    <node id="Zero Motorcycles Inc." />
-    <node id="Mando America Corporation" />
-    <node id="Continental Tire the Americas, LLC" />
-    <node id="FUEL SYSTEM, GASOLINE" />
-    <node id="Brinkley RV" />
-    <node id="Precision Circuits Inc." />
-    <node id="Firefly Integrations, LLC" />
-    <node id="Diamond C Trailer MFG." />
-    <node id="FUEL SYSTEM, DIESEL" />
-    <node id="Dexter Axle Company" />
-    <node id="Hyundai Motor America" />
-    <node id="VISIBILITY/WIPER" />
-    <node id="Wabash National Corporation" />
-    <node id="Hyundam Industrial" />
-    <node id="Kentucky Trailer Manufacturing" />
-    <node id="TRAILER HITCHES" />
-    <node id="Midwest Fire Equipment &amp; Repair Company" />
-    <node id="Ducati North America" />
-    <node id="Covercraft Industries, LLC" />
-    <node id="Wilson Trailer Company" />
-    <node id="Interstate Group, LLC" />
-    <node id="Fruehauf Inc." />
-    <node id="Streamline Industries Incorporated" />
-    <node id="Bentley Motors, Inc." />
-    <node id="Yokohama Tire Corporation" />
-    <node id="Aluminum Trailer Company (ATC)" />
-    <node id="Outfitter Manufacturing" />
-    <node id="Navistar, Inc." />
-    <node id="Entrans International, LLC" />
-    <node id="Nikola Corporation" />
-    <node id="Trail King Industries, Inc." />
-    <node id="Maserati North America, Inc." />
-    <node id="Isuzu Motors Limited" />
-    <node id="Piaggio Group Americas, Inc." />
-    <node id="Explorer Van Company" />
-    <node id="Nelson Trailers" />
-    <node id="Starcraft RV" />
-    <node id="Lakota Corporation" />
-    <node id="Highland Ridge RV" />
-    <node id="Shyft Group" />
-    <node id="SmartPlug Systems, LLC" />
-    <node id="Provan Industries, LLC" />
-    <node id="Farber Specialty Vehicles" />
-    <node id="Rosenbauer America" />
-    <node id="Temp-Air, a division of Sunbelt Rentals" />
-    <node id="Midway Specialty Vehicles" />
-    <node id="Summit Bodyworks" />
-    <node id="Kawasaki Motors Corp., U.S.A." />
-    <node id="Sewn Products DBA TigerTough" />
-    <node id="RevHD" />
-    <node id="Quality Vans &amp; Specialty Vehicles" />
-    <node id="Vanguard National Trailer Corporation" />
-    <node id="SPORTSMOBILE TEXAS, INC" />
-    <node id="Titan Bus" />
-    <node id="ST Engineering Hackney, Inc" />
-    <node id="Pleasure Way Industries, Ltd." />
-    <node id="Adaptive Mobility Systems Inc" />
-    <node id="Industrial Video &amp; Control Co" />
-    <node id="Polestar Automotive USA, Inc." />
-    <node id="Seats Incorporated" />
-    <node id="Gulf States Toyota, Inc." />
-    <node id="Boreas Campers" />
-    <node id="Yamaha Motor Corporation, USA" />
-    <node id="Dana Incorporated" />
-    <node id="Ironman 4x4 USA II LLC" />
-    <node id="Newmar Corporation" />
-    <node id="Lippert" />
-    <node id="Polaris Industries Inc." />
-    <node id="E-One Incorporated" />
-    <node id="Stoughton Trailers, LLC" />
-    <node id="Mobility Ventures LLC" />
-    <node id="Maxzone Auto Parts Corporation" />
-    <node id="Eagle Eyes Traffic Ind. Co., Ltd" />
-    <node id="East Penn Manufacturing Company, Inc." />
-    <node id="SAF-Holland" />
-    <node id="Imagine Fiberglass Products Inc." />
-    <node id="Bugatti" />
-    <node id="Iowa Mold Tooling Co., Inc." />
-    <node id="Knapheide Manufacturing Company" />
-    <node id="Marion Body Works Inc." />
-    <node id="Fontaine Trailer Company" />
-    <node id="SERVICE BRAKES" />
-    <node id="Veoneer Brake Systems, LLC" />
-    <node id="SEA Electric LLC" />
-    <node id="VinFast Auto, LLC" />
-    <node id="Terminal Investment Corporation" />
-    <node id="Foretravel, Inc." />
-    <node id="Dennis Eagle Inc." />
-    <node id="Mitsubishi Motors North America, Inc." />
-    <node id="Fox Factory, Inc." />
-    <node id="Braun Ambulances" />
-    <node id="Advance Stores Company, Incorporated" />
-    <node id="Continental Automotive Systems, Inc." />
-    <node id="Outback customs,LLC" />
-    <node id="Baby Trend, Inc." />
-    <node id="PJ Trailers" />
-    <node id="Capacity of Texas" />
-    <node id="Lordstown EV Corp" />
-    <node id="Crysteel Manufacturing Inc" />
-    <node id="Shred-Tech Corporation" />
-    <node id="Les Technologies Ecotuned inc." />
-    <node id="Heartland Recreational Vehicles, LLC" />
-    <node id="3M Transportation Safety Division" />
-    <node id="Field Van, Inc" />
-    <node id="Michelin North America, Inc." />
-    <node id="Meritor, Inc." />
-    <node id="Alamo Group Inc." />
-    <node id="Buell Motorcycles" />
-    <node id="Motor Coach Industries" />
-    <node id="Felling Trailers, Inc." />
-    <node id="Four Degree Trailer Company" />
-    <node id="Carrier Corporation" />
-    <node id="Vermeer Manufacturing Company" />
-    <node id="Shadow Trailer, LLC" />
-    <node id="9299-5000 Quebec Inc." />
-    <node id="Capri Campers, LLC" />
-    <node id="Bombardier Recreational Products, Inc." />
-    <node id="Dorel Juvenile Group" />
-    <node id="Gilbarco, Inc." />
-    <node id="AROW Global Corp" />
-    <node id="Terex Advance Mixer, Inc." />
-    <node id="Eveland's Inc." />
-    <node id="Off Grid Trailers" />
-    <node id="Royal Enfield North America Limited" />
-    <node id="Roadtrek Inc." />
-    <node id="Par Nado inc" />
-    <node id="Electra Meccanica Vehicles Corp" />
-    <node id="Suzuki Motor USA, LLC" />
-    <node id="Bendix Commercial Vehicle Systems, LLC" />
-    <node id="Braun Corporation" />
-    <node id="Columbus Trading-Partners USA, Inc." />
-    <node id="Pleasant Valley Teardrop Trailers LLC" />
-    <node id="Maintainer Corporation of Iowa, Inc." />
-    <node id="TOKAI RIKA Co LTD" />
-    <node id="Nexus RVs, LLC" />
-    <node id="Navico Group" />
-    <node id="Kalmar Solutions, LLC" />
-    <node id="Suburban Manufacturing CO" />
-    <node id="Comoto Holdings, Inc." />
-    <node id="Gratimax, LLC" />
-    <node id="ABS Remorques" />
-    <node id="Adventurer Manufacturing, LLC" />
-    <node id="JD E-Commerce America Limited" />
-    <node id="Hendrickson USA. L.L.C." />
-    <node id="WARN Industries, Inc." />
-    <node id="Ridewell Corporation" />
-    <node id="Williamsen-Godwin Truck Body Company LLC" />
-    <node id="Easymile Inc." />
-    <node id="East Manufacturing Corp." />
-    <node id="KTM North America, Inc." />
-    <node id="LDV, Inc." />
-    <node id="Old School Trailers, LLC" />
-    <node id="Entegra Coach" />
-    <edge source="AIR BAGS" target="Mazda North American Operations">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="AIR BAGS" target="Kia America, Inc.">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="AIR BAGS" target="BMW of North America, LLC">
-      <data key="d0">6</data>
-    </edge>
-    <edge source="AIR BAGS" target="Volvo Car USA, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="AIR BAGS" target="BCS Automotive Interface Solutions US, L">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="AIR BAGS" target="Tesla, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="AIR BAGS" target="Porsche Cars North America, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="AIR BAGS" target="General Motors, LLC">
-      <data key="d0">6</data>
-    </edge>
-    <edge source="AIR BAGS" target="Volkswagen Group of America, Inc.">
-      <data key="d0">5</data>
-    </edge>
-    <edge source="AIR BAGS" target="Hyundai Motor America">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="AIR BAGS" target="Sewn Products DBA TigerTough">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="AIR BAGS" target="Volvo Trucks North America">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="AIR BAGS" target="Toyota Motor Engineering &amp; Manufacturing">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="AIR BAGS" target="Ford Motor Company">
-      <data key="d0">4</data>
-    </edge>
-    <edge source="AIR BAGS" target="Chrysler (FCA US, LLC)">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="AIR BAGS" target="Jayco, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="AIR BAGS" target="Rivian Automotive, LLC">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="AIR BAGS" target="Bentley Motors, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="AIR BAGS" target="Daimler Vans USA, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="AIR BAGS" target="Subaru of America, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="AIR BAGS" target="Nissan North America, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="Mazda North American Operations" target="BACK OVER PREVENTION">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="Mazda North American Operations" target="POWER TRAIN">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Mazda North American Operations" target="STEERING">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Mazda North American Operations" target="SERVICE BRAKES, HYDRAULIC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Mazda North American Operations" target="TRAILER HITCHES">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SUSPENSION" target="Great Dane Trailers">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SUSPENSION" target="Keystone RV Company">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SUSPENSION" target="Dorman Products, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SUSPENSION" target="Kia America, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SUSPENSION" target="General Motors, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SUSPENSION" target="Harley-Davidson Motor Company">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="SUSPENSION" target="Trail King Industries, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SUSPENSION" target="Piaggio Group Americas, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SUSPENSION" target="Lakota Corporation">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SUSPENSION" target="Grand Design RV, LLC">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="SUSPENSION" target="Polestar Automotive USA, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SUSPENSION" target="Ironman 4x4 USA II LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SUSPENSION" target="Lippert">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="SUSPENSION" target="Hino Motors Sales U.S.A., Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="SUSPENSION" target="Ford Motor Company">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SUSPENSION" target="Volkswagen Group of America, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="SUSPENSION" target="Chrysler (FCA US, LLC)">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SUSPENSION" target="Altec Industries, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SUSPENSION" target="Subaru of America, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SUSPENSION" target="ST Engineering Hackney, Inc">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SUSPENSION" target="Advance Stores Company, Incorporated">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SUSPENSION" target="Porsche Cars North America, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="SUSPENSION" target="Tesla, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="SUSPENSION" target="Jayco, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="SUSPENSION" target="SAF-Holland">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SUSPENSION" target="Gillig, LLC">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="SUSPENSION" target="Lion Electric Company">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SUSPENSION" target="PACCAR Incorporated">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SUSPENSION" target="Navistar, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="Great Dane Trailers" target="TIRES">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Great Dane Trailers" target="WHEELS">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Tesla, Inc.">
-      <data key="d0">4</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Mercedes-Benz USA, LLC">
-      <data key="d0">11</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Lamborghini (Automobili Lamborghini)">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Pierce Manufacturing">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Kovatch Mobile Equipment Corp.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Ferrara Fire Apparatus, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Textron Specialized Vehicles">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Gillig, LLC">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Porsche Cars North America, Inc.">
-      <data key="d0">5</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Spartan Fire, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Grand Design RV, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Chrysler (FCA US, LLC)">
-      <data key="d0">13</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Forest River, Inc.">
-      <data key="d0">8</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Jayco, Inc.">
-      <data key="d0">5</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Lonestar Specialty Vehicles">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Triple E Recreational Vehicles">
-      <data key="d0">5</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Prevost Car (US) Inc.">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Cruise LLC">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="General Motors, LLC">
-      <data key="d0">4</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Toyota Motor Engineering &amp; Manufacturing">
-      <data key="d0">4</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Ford Motor Company">
-      <data key="d0">7</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Weldon Division of Akron Brass">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Kia America, Inc.">
-      <data key="d0">4</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Jaguar Land Rover North America, LLC">
-      <data key="d0">4</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Alliance RV, LLC">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="BMW of North America, LLC">
-      <data key="d0">11</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Proterra Operating Company, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="AMETEK ICVS">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Transfer Flow Inc - Chico, CA">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Lightning eMotors Inc.">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Volvo Bus Corporation">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Brinkley RV">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Precision Circuits Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Winnebago Industries, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Nissan North America, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Daimler Trucks North America, LLC">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Midwest Fire Equipment &amp; Repair Company">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Volkswagen Group of America, Inc.">
-      <data key="d0">5</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Airstream, Inc.">
-      <data key="d0">4</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Nova Bus (US) Inc.">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Aluminum Trailer Company (ATC)">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Hyundai Motor America">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Nikola Corporation">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Isuzu Motors Limited">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Hino Motors Sales U.S.A., Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Subaru of America, Inc.">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Shyft Group">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="SmartPlug Systems, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Rosenbauer America">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Lucid USA, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Altec Industries, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Kawasaki Motors Corp., U.S.A.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Mack Trucks, Inc.">
-      <data key="d0">5</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Volvo Trucks North America">
-      <data key="d0">4</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Lion Electric Company">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Blue Bird Body Company">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="PACCAR Incorporated">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="East Penn Manufacturing Company, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Tiffin Motorhomes, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Autocar, LLC">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Polestar Automotive USA, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="SEA Electric LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="VinFast Auto, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Foretravel, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Fox Factory, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Lordstown EV Corp">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Crysteel Manufacturing Inc">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Les Technologies Ecotuned inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Field Van, Inc">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Navistar, Inc.">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Felling Trailers, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Four Degree Trailer Company">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Daimler Vans USA, LLC">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Honda (American Honda Motor Co.)">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Alexis Fire Equipment Company">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Volvo Car USA, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Kentucky Trailer Manufacturing">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Gilbarco, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Polaris Industries Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Electra Meccanica Vehicles Corp">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="New Flyer of America, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Newell Coach Corp.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Navico Group">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Bentley Motors, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="WARN Industries, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="Easymile Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRICAL SYSTEM" target="KTM North America, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Tesla, Inc." target="SEAT BELTS">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="Tesla, Inc." target="FORWARD COLLISION AVOIDANCE">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Tesla, Inc." target="STRUCTURE">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Tesla, Inc." target="STEERING">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Tesla, Inc." target="BACK OVER PREVENTION">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Tesla, Inc." target="PARKING BRAKE">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Mercedes-Benz USA, LLC" target="ELECTRONIC STABILITY CONTROL">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="Mercedes-Benz USA, LLC" target="STRUCTURE">
-      <data key="d0">4</data>
-    </edge>
-    <edge source="Mercedes-Benz USA, LLC" target="VISIBILITY">
-      <data key="d0">4</data>
-    </edge>
-    <edge source="Mercedes-Benz USA, LLC" target="EQUIPMENT">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Mercedes-Benz USA, LLC" target="CHILD SEAT">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Mercedes-Benz USA, LLC" target="EXTERIOR LIGHTING">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Mercedes-Benz USA, LLC" target="TRAILER HITCHES">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Mercedes-Benz USA, LLC" target="SEAT BELTS">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Mercedes-Benz USA, LLC" target="FUEL SYSTEM, GASOLINE">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Mercedes-Benz USA, LLC" target="TIRES">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Mercedes-Benz USA, LLC" target="FUEL SYSTEM, DIESEL">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Mercedes-Benz USA, LLC" target="LATCHES/LOCKS/LINKAGES">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Mercedes-Benz USA, LLC" target="STEERING">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Mercedes-Benz USA, LLC" target="POWER TRAIN">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ENGINE AND ENGINE COOLING" target="Harley-Davidson Motor Company">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ENGINE AND ENGINE COOLING" target="Indian Motorcycle Company">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ENGINE AND ENGINE COOLING" target="Jaguar Land Rover North America, LLC">
-      <data key="d0">4</data>
-    </edge>
-    <edge source="ENGINE AND ENGINE COOLING" target="Honda (American Honda Motor Co.)">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="ENGINE AND ENGINE COOLING" target="Subaru of America, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ENGINE AND ENGINE COOLING" target="BMW of North America, LLC">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="ENGINE AND ENGINE COOLING" target="Ferrari North America, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ENGINE AND ENGINE COOLING" target="Ford Motor Company">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ENGINE AND ENGINE COOLING" target="Volkswagen Group of America, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ENGINE AND ENGINE COOLING" target="Triumph Motorcycles America, Ltd.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="ENGINE AND ENGINE COOLING" target="Cummins, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ENGINE AND ENGINE COOLING" target="McLaren Automotive Incorporated">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ENGINE AND ENGINE COOLING" target="Lion Electric Company">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ENGINE AND ENGINE COOLING" target="Chrysler (FCA US, LLC)">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ENGINE AND ENGINE COOLING" target="Navistar, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="ENGINE AND ENGINE COOLING" target="Kawasaki Motors Corp., U.S.A.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Harley-Davidson Motor Company" target="SERVICE BRAKES, HYDRAULIC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Harley-Davidson Motor Company" target="FUEL SYSTEM, GASOLINE">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EXTERIOR LIGHTING" target="Forest River, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="EXTERIOR LIGHTING" target="PILOTCAR EV INC.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EXTERIOR LIGHTING" target="Nissan North America, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EXTERIOR LIGHTING" target="Chrysler (FCA US, LLC)">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="EXTERIOR LIGHTING" target="Ford Motor Company">
-      <data key="d0">4</data>
-    </edge>
-    <edge source="EXTERIOR LIGHTING" target="Newell Coach Corp.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="EXTERIOR LIGHTING" target="Nova Bus (US) Inc.">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="EXTERIOR LIGHTING" target="Harbor Freight Tools">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EXTERIOR LIGHTING" target="Subaru of America, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="EXTERIOR LIGHTING" target="Mack Trucks, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EXTERIOR LIGHTING" target="Hino Motors Sales U.S.A., Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EXTERIOR LIGHTING" target="Porsche Cars North America, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="EXTERIOR LIGHTING" target="Prevost Car (US) Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="EXTERIOR LIGHTING" target="Maxzone Auto Parts Corporation">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EXTERIOR LIGHTING" target="Eagle Eyes Traffic Ind. Co., Ltd">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EXTERIOR LIGHTING" target="Jaguar Land Rover North America, LLC">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="EXTERIOR LIGHTING" target="Ducati North America">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EXTERIOR LIGHTING" target="Fontaine Trailer Company">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EXTERIOR LIGHTING" target="Navistar, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EXTERIOR LIGHTING" target="Rivian Automotive, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EXTERIOR LIGHTING" target="Daimler Trucks North America, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EXTERIOR LIGHTING" target="Bombardier Recreational Products, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EXTERIOR LIGHTING" target="Winnebago Industries, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EXTERIOR LIGHTING" target="Dennis Eagle Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EXTERIOR LIGHTING" target="Autocar, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EXTERIOR LIGHTING" target="Gratimax, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EXTERIOR LIGHTING" target="General Motors, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Forest River, Inc." target="PARKING BRAKE">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Forest River, Inc." target="EQUIPMENT">
-      <data key="d0">17</data>
-    </edge>
-    <edge source="Forest River, Inc." target="POWER TRAIN">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="Forest River, Inc." target="STRUCTURE">
-      <data key="d0">4</data>
-    </edge>
-    <edge source="Forest River, Inc." target="SERVICE BRAKES">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Forest River, Inc." target="FUEL SYSTEM, GASOLINE">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Forest River, Inc." target="LATCHES/LOCKS/LINKAGES">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STRUCTURE" target="REV Recreation Group">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STRUCTURE" target="Altec Industries, Inc.">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="STRUCTURE" target="Daimler Vans USA, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STRUCTURE" target="Lode-King Industries, Ltd.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STRUCTURE" target="Nova Bus (US) Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="STRUCTURE" target="Blue Bird Body Company">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="STRUCTURE" target="Pratt Intermodal Chassis">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STRUCTURE" target="Jayco, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="STRUCTURE" target="Volkswagen Group of America, Inc.">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="STRUCTURE" target="Winnebago Towable">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="STRUCTURE" target="Nissan North America, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="STRUCTURE" target="Toyota Motor Engineering &amp; Manufacturing">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="STRUCTURE" target="Kia America, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="STRUCTURE" target="Hyundai Translead">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STRUCTURE" target="T.A. Pelsue">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STRUCTURE" target="Daimler Trucks North America, LLC">
-      <data key="d0">4</data>
-    </edge>
-    <edge source="STRUCTURE" target="Wabash National Corporation">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STRUCTURE" target="Ducati North America">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="STRUCTURE" target="Interstate Group, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STRUCTURE" target="Maserati North America, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="STRUCTURE" target="Starcraft RV">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STRUCTURE" target="Chrysler (FCA US, LLC)">
-      <data key="d0">5</data>
-    </edge>
-    <edge source="STRUCTURE" target="Highland Ridge RV">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STRUCTURE" target="Mack Trucks, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STRUCTURE" target="Ford Motor Company">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STRUCTURE" target="Pierce Manufacturing">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STRUCTURE" target="Keystone RV Company">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="STRUCTURE" target="Grand Design RV, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STRUCTURE" target="Bentley Motors, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STRUCTURE" target="Porsche Cars North America, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STRUCTURE" target="Shred-Tech Corporation">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STRUCTURE" target="Triple E Recreational Vehicles">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STRUCTURE" target="Forest River Bus, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STRUCTURE" target="Honda (American Honda Motor Co.)">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STRUCTURE" target="Prevost Car (US) Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STRUCTURE" target="Navistar, Inc.">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="STRUCTURE" target="AROW Global Corp">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STRUCTURE" target="Braun Ambulances">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="STRUCTURE" target="Lakota Corporation">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STRUCTURE" target="Hyundai Motor America">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STRUCTURE" target="Indian Motorcycle Company">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STRUCTURE" target="General Motors, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="REV Recreation Group" target="EQUIPMENT">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="REV Recreation Group" target="TRAILER HITCHES">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="REV Recreation Group" target="LATCHES/LOCKS/LINKAGES">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Altec Industries, Inc." target="EQUIPMENT">
-      <data key="d0">6</data>
-    </edge>
-    <edge source="Altec Industries, Inc." target="FORWARD COLLISION AVOIDANCE">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SEAT BELTS" target="Volvo Car USA, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SEAT BELTS" target="General Motors, LLC">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="SEAT BELTS" target="Honda (American Honda Motor Co.)">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="SEAT BELTS" target="PACCAR Incorporated">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SEAT BELTS" target="Chrysler (FCA US, LLC)">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SEAT BELTS" target="Hyundai Motor America">
-      <data key="d0">4</data>
-    </edge>
-    <edge source="SEAT BELTS" target="Newmar Corporation">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SEAT BELTS" target="Porsche Cars North America, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SEAT BELTS" target="Nissan North America, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SEAT BELTS" target="Autocar, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SEAT BELTS" target="Winnebago Industries, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SEAT BELTS" target="Ford Motor Company">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="SEAT BELTS" target="Nova Bus (US) Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SEAT BELTS" target="Dennis Eagle Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SEAT BELTS" target="BMW of North America, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SEAT BELTS" target="TOKAI RIKA Co LTD">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Volvo Car USA, LLC" target="SERVICE BRAKES, HYDRAULIC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Volvo Car USA, LLC" target="STEERING">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Kia America, Inc." target="SERVICE BRAKES, HYDRAULIC">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="Kia America, Inc." target="BACK OVER PREVENTION">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="Kia America, Inc." target="FUEL SYSTEM, GASOLINE">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="Kia America, Inc." target="LATCHES/LOCKS/LINKAGES">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Kia America, Inc." target="EQUIPMENT">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Kia America, Inc." target="POWER TRAIN">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="Kia America, Inc." target="TRAILER HITCHES">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Kia America, Inc." target="STEERING">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Indian Motorcycle Company" target="FUEL SYSTEM, GASOLINE">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Indian Motorcycle Company" target="EQUIPMENT">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="TIRES" target="Sumitomo Rubber USA, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="TIRES" target="Big Tex Trailer Manufacturing, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="TIRES" target="Sentury Tire Thailand">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="TIRES" target="Toyo Tire Holdings of Americas, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="TIRES" target="Continental Tire the Americas, LLC">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="TIRES" target="Dexter Axle Company">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="TIRES" target="Wilson Trailer Company">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="TIRES" target="Fruehauf Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="TIRES" target="Yokohama Tire Corporation">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="TIRES" target="Vanguard National Trailer Corporation">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="TIRES" target="ST Engineering Hackney, Inc">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="TIRES" target="Gulf States Toyota, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="TIRES" target="Toyota Motor Engineering &amp; Manufacturing">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="TIRES" target="SAF-Holland">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="TIRES" target="Nissan North America, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="TIRES" target="Michelin North America, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="TIRES" target="Subaru of America, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="TIRES" target="Alliance RV, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="TIRES" target="Grand Design RV, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="TIRES" target="Honda (American Honda Motor Co.)">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="TIRES" target="Daimler Trucks North America, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Keystone RV Company" target="EQUIPMENT">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Pierce Manufacturing" target="EQUIPMENT">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Pierce Manufacturing" target="STEERING">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Kovatch Mobile Equipment Corp." target="PARKING BRAKE">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="POWER TRAIN" target="BMW of North America, LLC">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="POWER TRAIN" target="Gillig, LLC">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="POWER TRAIN" target="Eldorado National- California, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="POWER TRAIN" target="Subaru of America, Inc.">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="POWER TRAIN" target="Ford Motor Company">
-      <data key="d0">8</data>
-    </edge>
-    <edge source="POWER TRAIN" target="Hino Motors Sales U.S.A., Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="POWER TRAIN" target="New Flyer of America, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="POWER TRAIN" target="Allison Transmission, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="POWER TRAIN" target="Platinum Driveline, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="POWER TRAIN" target="Chrysler (FCA US, LLC)">
-      <data key="d0">7</data>
-    </edge>
-    <edge source="POWER TRAIN" target="PACCAR Incorporated">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="POWER TRAIN" target="Honda (American Honda Motor Co.)">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="POWER TRAIN" target="Navistar, Inc.">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="POWER TRAIN" target="Autocar, LLC">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="POWER TRAIN" target="Daimler Trucks North America, LLC">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="POWER TRAIN" target="Hyundai Motor America">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="POWER TRAIN" target="Nova Bus (US) Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="POWER TRAIN" target="Dana Incorporated">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="POWER TRAIN" target="E-One Incorporated">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="POWER TRAIN" target="Jayco, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="POWER TRAIN" target="Marion Body Works Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="POWER TRAIN" target="Custom Fire Apparatus, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="POWER TRAIN" target="Blue Bird Body Company">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="POWER TRAIN" target="Cummins, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="POWER TRAIN" target="General Motors, LLC">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="POWER TRAIN" target="Spartan Fire, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="POWER TRAIN" target="Xos, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="BMW of North America, LLC" target="STEERING">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="BMW of North America, LLC" target="VISIBILITY/WIPER">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="BMW of North America, LLC" target="SEATS">
-      <data key="d0">4</data>
-    </edge>
-    <edge source="BMW of North America, LLC" target="VEHICLE SPEED CONTROL">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="BMW of North America, LLC" target="SERVICE BRAKES">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="BMW of North America, LLC" target="BACK OVER PREVENTION">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STEERING" target="Terberg Benschop B.V.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="STEERING" target="Cake 0 Emission USA Inc">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STEERING" target="Mack Trucks, Inc.">
-      <data key="d0">4</data>
-    </edge>
-    <edge source="STEERING" target="Honda (American Honda Motor Co.)">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="STEERING" target="Volvo Trucks North America">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="STEERING" target="Arcimoto Inc">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STEERING" target="Autocar, LLC">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="STEERING" target="Nissan North America, Inc.">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="STEERING" target="Nelson Trailers">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STEERING" target="General Motors, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STEERING" target="Hyundai Translead">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STEERING" target="Nova Bus (US) Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="STEERING" target="Toyota Motor Engineering &amp; Manufacturing">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STEERING" target="Terminal Investment Corporation">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STEERING" target="Chrysler (FCA US, LLC)">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STEERING" target="Ford Motor Company">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="STEERING" target="Meritor, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="STEERING" target="Daimler Trucks North America, LLC">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="STEERING" target="Capacity of Texas">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STEERING" target="Spartan Fire, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STEERING" target="Terex Advance Mixer, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="STEERING" target="Gillig, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STEERING" target="Lion Electric Company">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="STEERING" target="New Flyer of America, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STEERING" target="Williamsen-Godwin Truck Body Company LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STEERING" target="East Manufacturing Corp.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="STEERING" target="Newmar Corporation">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Volvo Trucks North America">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Tiffin Motorhomes, Inc.">
-      <data key="d0">5</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Rivian Automotive, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="DECKED">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Airstream, Inc.">
-      <data key="d0">7</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Nova Bus (US) Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Thor Motor Coach">
-      <data key="d0">5</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Southeast Toyota Distributors, LLC">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Kibbi, LLC">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Gulf Stream Coach, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Hollywood Racks">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Forest River Bus, LLC">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Trans-Air Manufacturing Corp.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="New Flyer of America, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Terex South Dakota, Inc.">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Storyteller Overland">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Winnebago Industries, Inc.">
-      <data key="d0">5</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Volvo Bus Corporation">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Zero Motorcycles Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Firefly Integrations, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Diamond C Trailer MFG.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Toyota Motor Engineering &amp; Manufacturing">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Kentucky Trailer Manufacturing">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="General Motors, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Outfitter Manufacturing">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Entrans International, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Hyundai Motor America">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Honda (American Honda Motor Co.)">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="SPORTSMOBILE TEXAS, INC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Titan Bus">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Pleasure Way Industries, Ltd.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Boreas Campers">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="ST Engineering Hackney, Inc">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Grand Design RV, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Ford Motor Company">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Imagine Fiberglass Products Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Jayco, Inc.">
-      <data key="d0">4</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Spartan Fire, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Triple E Recreational Vehicles">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Iowa Mold Tooling Co., Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Knapheide Manufacturing Company">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Chrysler (FCA US, LLC)">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="E-One Incorporated">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Outback customs,LLC">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Nissan North America, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Heartland Recreational Vehicles, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="3M Transportation Safety Division">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Alamo Group Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Motor Coach Industries">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Cummins, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Lippert">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Carrier Corporation">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Vermeer Manufacturing Company">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Shadow Trailer, LLC">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="EQUIPMENT" target="9299-5000 Quebec Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Capri Campers, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Ducati North America">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Eveland's Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Harbor Freight Tools">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Off Grid Trailers">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Prevost Car (US) Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Xos, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Roadtrek Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Par Nado inc">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Aluminum Trailer Company (ATC)">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Volkswagen Group of America, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Daimler Trucks North America, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Pleasant Valley Teardrop Trailers LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Maintainer Corporation of Iowa, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Nexus RVs, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Kalmar Solutions, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Subaru of America, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Suburban Manufacturing CO">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Comoto Holdings, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Lode-King Industries, Ltd.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Adventurer Manufacturing, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="LDV, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT" target="Old School Trailers, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Volvo Trucks North America" target="VEHICLE SPEED CONTROL">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Volvo Trucks North America" target="SEATS">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Volvo Trucks North America" target="ELECTRONIC STABILITY CONTROL">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Volvo Trucks North America" target="VISIBILITY">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Volvo Trucks North America" target="EQUIPMENT ADAPTIVE/MOBILITY">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Volvo Trucks North America" target="WHEELS">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Volvo Trucks North America" target="SERVICE BRAKES, AIR">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Nissan North America, Inc." target="SERVICE BRAKES, HYDRAULIC">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="Nissan North America, Inc." target="BACK OVER PREVENTION">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Nissan North America, Inc." target="VEHICLE SPEED CONTROL">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Nissan North America, Inc." target="SEATS">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="Nissan North America, Inc." target="LATCHES/LOCKS/LINKAGES">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Spartan Fire, LLC" target="PARKING BRAKE">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Daimler Vans USA, LLC" target="FUEL SYSTEM, GASOLINE">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="FORWARD COLLISION AVOIDANCE" target="Prevost Car (US) Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="FORWARD COLLISION AVOIDANCE" target="Volkswagen Group of America, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Prevost Car (US) Inc." target="SEATS">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="Prevost Car (US) Inc." target="ENGINE">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRONIC STABILITY CONTROL" target="Ford Motor Company">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRONIC STABILITY CONTROL" target="Mack Trucks, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRONIC STABILITY CONTROL" target="Mobility Ventures LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ELECTRONIC STABILITY CONTROL" target="Daimler Trucks North America, LLC">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="ELECTRONIC STABILITY CONTROL" target="PACCAR Incorporated">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Tiffin Motorhomes, Inc." target="FUEL SYSTEM, DIESEL">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Ford Motor Company" target="SERVICE BRAKES, HYDRAULIC">
-      <data key="d0">4</data>
-    </edge>
-    <edge source="Ford Motor Company" target="LATCHES/LOCKS/LINKAGES">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="Ford Motor Company" target="BACK OVER PREVENTION">
-      <data key="d0">7</data>
-    </edge>
-    <edge source="Ford Motor Company" target="VISIBILITY">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="Ford Motor Company" target="PARKING BRAKE">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="Ford Motor Company" target="ENGINE">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="Ford Motor Company" target="WHEELS">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Ford Motor Company" target="CHILD SEAT">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Ford Motor Company" target="FUEL SYSTEM, GASOLINE">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="Chrysler (FCA US, LLC)" target="BACK OVER PREVENTION">
-      <data key="d0">7</data>
-    </edge>
-    <edge source="Chrysler (FCA US, LLC)" target="FUEL SYSTEM, GASOLINE">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Chrysler (FCA US, LLC)" target="ENGINE">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Chrysler (FCA US, LLC)" target="SERVICE BRAKES, HYDRAULIC">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="Chrysler (FCA US, LLC)" target="FUEL SYSTEM, DIESEL">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="SERVICE BRAKES, HYDRAULIC" target="Jaguar Land Rover North America, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SERVICE BRAKES, HYDRAULIC" target="CFMOTO POWERSPORTS, INC.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SERVICE BRAKES, HYDRAULIC" target="Triumph Motorcycles America, Ltd.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="SERVICE BRAKES, HYDRAULIC" target="Mando America Corporation">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SERVICE BRAKES, HYDRAULIC" target="Hyundai Motor America">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="SERVICE BRAKES, HYDRAULIC" target="Volkswagen Group of America, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SERVICE BRAKES, HYDRAULIC" target="Streamline Industries Incorporated">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SERVICE BRAKES, HYDRAULIC" target="Yamaha Motor Corporation, USA">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SERVICE BRAKES, HYDRAULIC" target="Honda (American Honda Motor Co.)">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="SERVICE BRAKES, HYDRAULIC" target="Navistar, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="SERVICE BRAKES, HYDRAULIC" target="Braun Ambulances">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SERVICE BRAKES, HYDRAULIC" target="Continental Automotive Systems, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SERVICE BRAKES, HYDRAULIC" target="Jayco, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SERVICE BRAKES, HYDRAULIC" target="General Motors, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SERVICE BRAKES, HYDRAULIC" target="Royal Enfield North America Limited">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SERVICE BRAKES, HYDRAULIC" target="Nikola Corporation">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SERVICE BRAKES, HYDRAULIC" target="Suzuki Motor USA, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="PARKING BRAKE" target="Xos, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="PARKING BRAKE" target="Custom Fire Apparatus, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="PARKING BRAKE" target="Alexis Fire Equipment Company">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="PARKING BRAKE" target="Autocar, LLC">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="PARKING BRAKE" target="Navistar, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="PARKING BRAKE" target="Nikola Corporation">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="PARKING BRAKE" target="PACCAR Incorporated">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="PARKING BRAKE" target="Lordstown EV Corp">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="PARKING BRAKE" target="Bendix Commercial Vehicle Systems, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ENGINE" target="McLaren Automotive Incorporated">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ENGINE" target="PACCAR Incorporated">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ENGINE" target="Daimler Trucks North America, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ENGINE" target="Mack Trucks, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ENGINE" target="Cummins, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ENGINE" target="Buell Motorcycles">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="ENGINE" target="Jaguar Land Rover North America, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="McLaren Automotive Incorporated" target="FUEL SYSTEM, GASOLINE">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT ADAPTIVE/MOBILITY" target="Corp. Micro Bird, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT ADAPTIVE/MOBILITY" target="Ricon Corporation">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="EQUIPMENT ADAPTIVE/MOBILITY" target="Braun Corporation">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Corp. Micro Bird, Inc." target="SEATS">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="General Motors, LLC" target="VISIBILITY">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="General Motors, LLC" target="CHILD SEAT">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="General Motors, LLC" target="FUEL SYSTEM, DIESEL">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="General Motors, LLC" target="FUEL SYSTEM, GASOLINE">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Grand Design RV, LLC" target="TRAILER HITCHES">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Jaguar Land Rover North America, LLC" target="VISIBILITY">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Jaguar Land Rover North America, LLC" target="BACK OVER PREVENTION">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="Jaguar Land Rover North America, LLC" target="LATCHES/LOCKS/LINKAGES">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Jaguar Land Rover North America, LLC" target="SEATS">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Jaguar Land Rover North America, LLC" target="CHILD SEAT">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="VEHICLE SPEED CONTROL" target="Mack Trucks, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Mack Trucks, Inc." target="VISIBILITY">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Nova Bus (US) Inc." target="SEATS">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Honda (American Honda Motor Co.)" target="BACK OVER PREVENTION">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="Honda (American Honda Motor Co.)" target="SEATS">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="Honda (American Honda Motor Co.)" target="VISIBILITY">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="LATCHES/LOCKS/LINKAGES" target="Autocar, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="LATCHES/LOCKS/LINKAGES" target="Gulf Stream Coach, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="LATCHES/LOCKS/LINKAGES" target="Kibbi, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="LATCHES/LOCKS/LINKAGES" target="Newmar Corporation">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Jayco, Inc." target="VISIBILITY">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="Jayco, Inc." target="FUEL SYSTEM, GASOLINE">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SEATS" target="Winnebago Industries, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SEATS" target="Lucid USA, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SEATS" target="Covercraft Industries, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SEATS" target="Seats Incorporated">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SEATS" target="Bentley Motors, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SEATS" target="Capacity of Texas">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SEATS" target="Ferrari North America, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Thor Motor Coach" target="FUEL SYSTEM, GASOLINE">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Subaru of America, Inc." target="WHEELS">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Hino Motors Sales U.S.A., Inc." target="FUEL SYSTEM, DIESEL">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Volkswagen Group of America, Inc." target="BACK OVER PREVENTION">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Volkswagen Group of America, Inc." target="FUEL SYSTEM, GASOLINE">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="PACCAR Incorporated" target="SERVICE BRAKES, AIR">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="PACCAR Incorporated" target="FUEL SYSTEM, DIESEL">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="PACCAR Incorporated" target="VISIBILITY">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="CHILD SEAT" target="Evenflo Company, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="CHILD SEAT" target="Baby Trend, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="CHILD SEAT" target="Dorel Juvenile Group">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="CHILD SEAT" target="Columbus Trading-Partners USA, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="CHILD SEAT" target="JD E-Commerce America Limited">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="WHEELS" target="Autocar, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="WHEELS" target="Midwest Automotive Designs, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="WHEELS" target="RevHD">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="WHEELS" target="Toyota Motor Engineering &amp; Manufacturing">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="WHEELS" target="Stoughton Trailers, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="WHEELS" target="Bugatti">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Autocar, LLC" target="FUEL SYSTEM, DIESEL">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="Daimler Trucks North America, LLC" target="VISIBILITY">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="VISIBILITY" target="Dennis Eagle Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="VISIBILITY" target="Proterra Operating Company, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="VISIBILITY" target="Bombardier Recreational Products, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="VISIBILITY" target="Braun Ambulances">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Toyota Motor Engineering &amp; Manufacturing" target="FUEL SYSTEM, GASOLINE">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="BACK OVER PREVENTION" target="Chinook Motor Coach, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="BACK OVER PREVENTION" target="Lucid USA, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="BACK OVER PREVENTION" target="Polaris Industries Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="BACK OVER PREVENTION" target="Mitsubishi Motors North America, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Chinook Motor Coach, LLC" target="FUEL SYSTEM, GASOLINE">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Winnebago Industries, Inc." target="FUEL SYSTEM, GASOLINE">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="New Flyer of America, Inc." target="SERVICE BRAKES, AIR">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SERVICE BRAKES, AIR" target="Lion Electric Company">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SERVICE BRAKES, AIR" target="Stoughton Trailers, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SERVICE BRAKES, AIR" target="Navistar, Inc.">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="SERVICE BRAKES, AIR" target="Bendix Commercial Vehicle Systems, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SERVICE BRAKES, AIR" target="Hendrickson USA. L.L.C.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SERVICE BRAKES, AIR" target="Ridewell Corporation">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SERVICE BRAKES, AIR" target="Hyundai Translead">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SERVICE BRAKES, AIR" target="Entegra Coach">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Lucid USA, Inc." target="VISIBILITY/WIPER">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Cummins, Inc." target="FUEL SYSTEM, DIESEL">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Ferrari North America, Inc." target="FUEL SYSTEM, GASOLINE">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="FUEL SYSTEM, GASOLINE" target="Hyundam Industrial">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="FUEL SYSTEM, GASOLINE" target="Hyundai Motor America">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="FUEL SYSTEM, GASOLINE" target="Bentley Motors, Inc.">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="FUEL SYSTEM, GASOLINE" target="Explorer Van Company">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="FUEL SYSTEM, GASOLINE" target="Provan Industries, LLC">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="FUEL SYSTEM, GASOLINE" target="Farber Specialty Vehicles">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="FUEL SYSTEM, GASOLINE" target="Midway Specialty Vehicles">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="FUEL SYSTEM, GASOLINE" target="Summit Bodyworks">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="FUEL SYSTEM, GASOLINE" target="Quality Vans &amp; Specialty Vehicles">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="FUEL SYSTEM, GASOLINE" target="Adaptive Mobility Systems Inc">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="FUEL SYSTEM, GASOLINE" target="Industrial Video &amp; Control Co">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Hyundai Motor America" target="VISIBILITY/WIPER">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Hyundai Motor America" target="TRAILER HITCHES">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="Wabash National Corporation" target="TRAILER HITCHES">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="TRAILER HITCHES" target="Temp-Air, a division of Sunbelt Rentals">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="TRAILER HITCHES" target="PJ Trailers">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="TRAILER HITCHES" target="ABS Remorques">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="SERVICE BRAKES" target="Veoneer Brake Systems, LLC">
-      <data key="d0">1</data>
-    </edge>
-  </graph>
-</graphml>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="undirected"><node id="AIR BAGS"/>
+<node id="Mazda North American Operations"/>
+<node id="SUSPENSION"/>
+<node id="Great Dane Trailers"/>
+<node id="ELECTRICAL SYSTEM"/>
+<node id="Tesla, Inc."/>
+<node id="Mercedes-Benz USA, LLC"/>
+<node id="ENGINE AND ENGINE COOLING"/>
+<node id="Harley-Davidson Motor Company"/>
+<node id="EXTERIOR LIGHTING"/>
+<node id="Forest River, Inc."/>
+<node id="STRUCTURE"/>
+<node id="REV Recreation Group"/>
+<node id="Altec Industries, Inc."/>
+<node id="SEAT BELTS"/>
+<node id="Volvo Car USA, LLC"/>
+<node id="Lamborghini (Automobili Lamborghini)"/>
+<node id="Kia America, Inc."/>
+<node id="Indian Motorcycle Company"/>
+<node id="TIRES"/>
+<node id="Sumitomo Rubber USA, LLC"/>
+<node id="Keystone RV Company"/>
+<node id="PILOTCAR EV INC."/>
+<node id="Pierce Manufacturing"/>
+<node id="Kovatch Mobile Equipment Corp."/>
+<node id="Ferrara Fire Apparatus, Inc."/>
+<node id="POWER TRAIN"/>
+<node id="BMW of North America, LLC"/>
+<node id="STEERING"/>
+<node id="Terberg Benschop B.V."/>
+<node id="Textron Specialized Vehicles"/>
+<node id="EQUIPMENT"/>
+<node id="Volvo Trucks North America"/>
+<node id="Gillig, LLC"/>
+<node id="Nissan North America, Inc."/>
+<node id="Porsche Cars North America, Inc."/>
+<node id="Eldorado National- California, Inc."/>
+<node id="Spartan Fire, LLC"/>
+<node id="Daimler Vans USA, LLC"/>
+<node id="FORWARD COLLISION AVOIDANCE"/>
+<node id="Prevost Car (US) Inc."/>
+<node id="ELECTRONIC STABILITY CONTROL"/>
+<node id="Tiffin Motorhomes, Inc."/>
+<node id="Ford Motor Company"/>
+<node id="Chrysler (FCA US, LLC)"/>
+<node id="Cake 0 Emission USA Inc"/>
+<node id="SERVICE BRAKES, HYDRAULIC"/>
+<node id="PARKING BRAKE"/>
+<node id="ENGINE"/>
+<node id="McLaren Automotive Incorporated"/>
+<node id="EQUIPMENT ADAPTIVE/MOBILITY"/>
+<node id="Corp. Micro Bird, Inc."/>
+<node id="General Motors, LLC"/>
+<node id="Lode-King Industries, Ltd."/>
+<node id="Ricon Corporation"/>
+<node id="Grand Design RV, LLC"/>
+<node id="Jaguar Land Rover North America, LLC"/>
+<node id="VEHICLE SPEED CONTROL"/>
+<node id="Mack Trucks, Inc."/>
+<node id="Nova Bus (US) Inc."/>
+<node id="Honda (American Honda Motor Co.)"/>
+<node id="Big Tex Trailer Manufacturing, Inc."/>
+<node id="Rivian Automotive, LLC"/>
+<node id="Blue Bird Body Company"/>
+<node id="DECKED"/>
+<node id="CFMOTO POWERSPORTS, INC."/>
+<node id="Airstream, Inc."/>
+<node id="LATCHES/LOCKS/LINKAGES"/>
+<node id="Xos, Inc."/>
+<node id="Jayco, Inc."/>
+<node id="SEATS"/>
+<node id="BCS Automotive Interface Solutions US, L"/>
+<node id="Lonestar Specialty Vehicles"/>
+<node id="Triple E Recreational Vehicles"/>
+<node id="Pratt Intermodal Chassis"/>
+<node id="Newell Coach Corp."/>
+<node id="Thor Motor Coach"/>
+<node id="Subaru of America, Inc."/>
+<node id="Southeast Toyota Distributors, LLC"/>
+<node id="Hino Motors Sales U.S.A., Inc."/>
+<node id="Kibbi, LLC"/>
+<node id="Volkswagen Group of America, Inc."/>
+<node id="Sentury Tire Thailand"/>
+<node id="Cruise LLC"/>
+<node id="PACCAR Incorporated"/>
+<node id="Custom Fire Apparatus, Inc."/>
+<node id="Alexis Fire Equipment Company"/>
+<node id="Winnebago Towable"/>
+<node id="CHILD SEAT"/>
+<node id="Evenflo Company, Inc."/>
+<node id="Gulf Stream Coach, Inc."/>
+<node id="WHEELS"/>
+<node id="Autocar, LLC"/>
+<node id="Daimler Trucks North America, LLC"/>
+<node id="Hollywood Racks"/>
+<node id="VISIBILITY"/>
+<node id="Toyota Motor Engineering &amp; Manufacturing"/>
+<node id="Triumph Motorcycles America, Ltd."/>
+<node id="Toyo Tire Holdings of Americas, Inc."/>
+<node id="BACK OVER PREVENTION"/>
+<node id="Chinook Motor Coach, LLC"/>
+<node id="Forest River Bus, LLC"/>
+<node id="Winnebago Industries, Inc."/>
+<node id="Weldon Division of Akron Brass"/>
+<node id="New Flyer of America, Inc."/>
+<node id="Trans-Air Manufacturing Corp."/>
+<node id="Midwest Automotive Designs, LLC"/>
+<node id="SERVICE BRAKES, AIR"/>
+<node id="Lion Electric Company"/>
+<node id="Lucid USA, Inc."/>
+<node id="Alliance RV, LLC"/>
+<node id="Terex South Dakota, Inc."/>
+<node id="Harbor Freight Tools"/>
+<node id="Proterra Operating Company, Inc."/>
+<node id="Cummins, Inc."/>
+<node id="Ferrari North America, Inc."/>
+<node id="Storyteller Overland"/>
+<node id="Arcimoto Inc"/>
+<node id="Hyundai Translead"/>
+<node id="T.A. Pelsue"/>
+<node id="Allison Transmission, Inc."/>
+<node id="AMETEK ICVS"/>
+<node id="Platinum Driveline, Inc."/>
+<node id="Transfer Flow Inc - Chico, CA"/>
+<node id="Dorman Products, Inc."/>
+<node id="Lightning eMotors Inc."/>
+<node id="Volvo Bus Corporation"/>
+<node id="Zero Motorcycles Inc."/>
+<node id="Mando America Corporation"/>
+<node id="Continental Tire the Americas, LLC"/>
+<node id="FUEL SYSTEM, GASOLINE"/>
+<node id="Brinkley RV"/>
+<node id="Precision Circuits Inc."/>
+<node id="Firefly Integrations, LLC"/>
+<node id="Diamond C Trailer MFG."/>
+<node id="FUEL SYSTEM, DIESEL"/>
+<node id="Dexter Axle Company"/>
+<node id="Hyundai Motor America"/>
+<node id="VISIBILITY/WIPER"/>
+<node id="Wabash National Corporation"/>
+<node id="Hyundam Industrial"/>
+<node id="Kentucky Trailer Manufacturing"/>
+<node id="TRAILER HITCHES"/>
+<node id="Midwest Fire Equipment &amp; Repair Company"/>
+<node id="Ducati North America"/>
+<node id="Covercraft Industries, LLC"/>
+<node id="Wilson Trailer Company"/>
+<node id="Interstate Group, LLC"/>
+<node id="Fruehauf Inc."/>
+<node id="Streamline Industries Incorporated"/>
+<node id="Bentley Motors, Inc."/>
+<node id="Yokohama Tire Corporation"/>
+<node id="Aluminum Trailer Company (ATC)"/>
+<node id="Outfitter Manufacturing"/>
+<node id="Navistar, Inc."/>
+<node id="Entrans International, LLC"/>
+<node id="Nikola Corporation"/>
+<node id="Trail King Industries, Inc."/>
+<node id="Maserati North America, Inc."/>
+<node id="Isuzu Motors Limited"/>
+<node id="Piaggio Group Americas, Inc."/>
+<node id="Explorer Van Company"/>
+<node id="Nelson Trailers"/>
+<node id="Starcraft RV"/>
+<node id="Lakota Corporation"/>
+<node id="Highland Ridge RV"/>
+<node id="Shyft Group"/>
+<node id="SmartPlug Systems, LLC"/>
+<node id="Provan Industries, LLC"/>
+<node id="Farber Specialty Vehicles"/>
+<node id="Rosenbauer America"/>
+<node id="Temp-Air, a division of Sunbelt Rentals"/>
+<node id="Midway Specialty Vehicles"/>
+<node id="Summit Bodyworks"/>
+<node id="Kawasaki Motors Corp., U.S.A."/>
+<node id="Sewn Products DBA TigerTough"/>
+<node id="RevHD"/>
+<node id="Quality Vans &amp; Specialty Vehicles"/>
+<node id="Vanguard National Trailer Corporation"/>
+<node id="SPORTSMOBILE TEXAS, INC"/>
+<node id="Titan Bus"/>
+<node id="ST Engineering Hackney, Inc"/>
+<node id="Pleasure Way Industries, Ltd."/>
+<node id="Adaptive Mobility Systems Inc"/>
+<node id="Industrial Video &amp; Control Co"/>
+<node id="Polestar Automotive USA, Inc."/>
+<node id="Seats Incorporated"/>
+<node id="Gulf States Toyota, Inc."/>
+<node id="Boreas Campers"/>
+<node id="Yamaha Motor Corporation, USA"/>
+<node id="Dana Incorporated"/>
+<node id="Ironman 4x4 USA II LLC"/>
+<node id="Newmar Corporation"/>
+<node id="Lippert"/>
+<node id="Polaris Industries Inc."/>
+<node id="E-One Incorporated"/>
+<node id="Stoughton Trailers, LLC"/>
+<node id="Mobility Ventures LLC"/>
+<node id="Maxzone Auto Parts Corporation"/>
+<node id="Eagle Eyes Traffic Ind. Co., Ltd"/>
+<node id="East Penn Manufacturing Company, Inc."/>
+<node id="SAF-Holland"/>
+<node id="Imagine Fiberglass Products Inc."/>
+<node id="Bugatti"/>
+<node id="Iowa Mold Tooling Co., Inc."/>
+<node id="Knapheide Manufacturing Company"/>
+<node id="Marion Body Works Inc."/>
+<node id="Fontaine Trailer Company"/>
+<node id="SERVICE BRAKES"/>
+<node id="Veoneer Brake Systems, LLC"/>
+<node id="SEA Electric LLC"/>
+<node id="VinFast Auto, LLC"/>
+<node id="Terminal Investment Corporation"/>
+<node id="Foretravel, Inc."/>
+<node id="Dennis Eagle Inc."/>
+<node id="Mitsubishi Motors North America, Inc."/>
+<node id="Fox Factory, Inc."/>
+<node id="Braun Ambulances"/>
+<node id="Advance Stores Company, Incorporated"/>
+<node id="Continental Automotive Systems, Inc."/>
+<node id="Outback customs,LLC"/>
+<node id="Baby Trend, Inc."/>
+<node id="PJ Trailers"/>
+<node id="Capacity of Texas"/>
+<node id="Lordstown EV Corp"/>
+<node id="Crysteel Manufacturing Inc"/>
+<node id="Shred-Tech Corporation"/>
+<node id="Les Technologies Ecotuned inc."/>
+<node id="Heartland Recreational Vehicles, LLC"/>
+<node id="3M Transportation Safety Division"/>
+<node id="Field Van, Inc"/>
+<node id="Michelin North America, Inc."/>
+<node id="Meritor, Inc."/>
+<node id="Alamo Group Inc."/>
+<node id="Buell Motorcycles"/>
+<node id="Motor Coach Industries"/>
+<node id="Felling Trailers, Inc."/>
+<node id="Four Degree Trailer Company"/>
+<node id="Carrier Corporation"/>
+<node id="Vermeer Manufacturing Company"/>
+<node id="Shadow Trailer, LLC"/>
+<node id="9299-5000 Quebec Inc."/>
+<node id="Capri Campers, LLC"/>
+<node id="Bombardier Recreational Products, Inc."/>
+<node id="Dorel Juvenile Group"/>
+<node id="Gilbarco, Inc."/>
+<node id="AROW Global Corp"/>
+<node id="Terex Advance Mixer, Inc."/>
+<node id="Eveland's Inc."/>
+<node id="Off Grid Trailers"/>
+<node id="Royal Enfield North America Limited"/>
+<node id="Roadtrek Inc."/>
+<node id="Par Nado inc"/>
+<node id="Electra Meccanica Vehicles Corp"/>
+<node id="Suzuki Motor USA, LLC"/>
+<node id="Bendix Commercial Vehicle Systems, LLC"/>
+<node id="Braun Corporation"/>
+<node id="Columbus Trading-Partners USA, Inc."/>
+<node id="Pleasant Valley Teardrop Trailers LLC"/>
+<node id="Maintainer Corporation of Iowa, Inc."/>
+<node id="TOKAI RIKA Co LTD"/>
+<node id="Nexus RVs, LLC"/>
+<node id="Navico Group"/>
+<node id="Kalmar Solutions, LLC"/>
+<node id="Suburban Manufacturing CO"/>
+<node id="Comoto Holdings, Inc."/>
+<node id="Gratimax, LLC"/>
+<node id="ABS Remorques"/>
+<node id="Adventurer Manufacturing, LLC"/>
+<node id="JD E-Commerce America Limited"/>
+<node id="Hendrickson USA. L.L.C."/>
+<node id="WARN Industries, Inc."/>
+<node id="Ridewell Corporation"/>
+<node id="Williamsen-Godwin Truck Body Company LLC"/>
+<node id="Easymile Inc."/>
+<node id="East Manufacturing Corp."/>
+<node id="KTM North America, Inc."/>
+<node id="LDV, Inc."/>
+<node id="Old School Trailers, LLC"/>
+<node id="Entegra Coach"/>
+<edge source="AIR BAGS" target="Mazda North American Operations">
+  <data key="d0">1</data>
+</edge>
+<edge source="AIR BAGS" target="Kia America, Inc.">
+  <data key="d0">3</data>
+</edge>
+<edge source="AIR BAGS" target="BMW of North America, LLC">
+  <data key="d0">6</data>
+</edge>
+<edge source="AIR BAGS" target="Volvo Car USA, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="AIR BAGS" target="BCS Automotive Interface Solutions US, L">
+  <data key="d0">1</data>
+</edge>
+<edge source="AIR BAGS" target="Tesla, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="AIR BAGS" target="Porsche Cars North America, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="AIR BAGS" target="General Motors, LLC">
+  <data key="d0">6</data>
+</edge>
+<edge source="AIR BAGS" target="Volkswagen Group of America, Inc.">
+  <data key="d0">5</data>
+</edge>
+<edge source="AIR BAGS" target="Hyundai Motor America">
+  <data key="d0">1</data>
+</edge>
+<edge source="AIR BAGS" target="Sewn Products DBA TigerTough">
+  <data key="d0">1</data>
+</edge>
+<edge source="AIR BAGS" target="Volvo Trucks North America">
+  <data key="d0">1</data>
+</edge>
+<edge source="AIR BAGS" target="Toyota Motor Engineering &amp; Manufacturing">
+  <data key="d0">1</data>
+</edge>
+<edge source="AIR BAGS" target="Ford Motor Company">
+  <data key="d0">4</data>
+</edge>
+<edge source="AIR BAGS" target="Chrysler (FCA US, LLC)">
+  <data key="d0">1</data>
+</edge>
+<edge source="AIR BAGS" target="Jayco, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="AIR BAGS" target="Rivian Automotive, LLC">
+  <data key="d0">2</data>
+</edge>
+<edge source="AIR BAGS" target="Bentley Motors, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="AIR BAGS" target="Daimler Vans USA, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="AIR BAGS" target="Subaru of America, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="AIR BAGS" target="Nissan North America, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="Mazda North American Operations" target="BACK OVER PREVENTION">
+  <data key="d0">3</data>
+</edge>
+<edge source="Mazda North American Operations" target="POWER TRAIN">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mazda North American Operations" target="STEERING">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mazda North American Operations" target="SERVICE BRAKES, HYDRAULIC">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mazda North American Operations" target="TRAILER HITCHES">
+  <data key="d0">1</data>
+</edge>
+<edge source="SUSPENSION" target="Great Dane Trailers">
+  <data key="d0">1</data>
+</edge>
+<edge source="SUSPENSION" target="Keystone RV Company">
+  <data key="d0">1</data>
+</edge>
+<edge source="SUSPENSION" target="Dorman Products, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SUSPENSION" target="Kia America, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SUSPENSION" target="General Motors, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="SUSPENSION" target="Harley-Davidson Motor Company">
+  <data key="d0">2</data>
+</edge>
+<edge source="SUSPENSION" target="Trail King Industries, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SUSPENSION" target="Piaggio Group Americas, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SUSPENSION" target="Lakota Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="SUSPENSION" target="Grand Design RV, LLC">
+  <data key="d0">2</data>
+</edge>
+<edge source="SUSPENSION" target="Polestar Automotive USA, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SUSPENSION" target="Ironman 4x4 USA II LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="SUSPENSION" target="Lippert">
+  <data key="d0">2</data>
+</edge>
+<edge source="SUSPENSION" target="Hino Motors Sales U.S.A., Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="SUSPENSION" target="Ford Motor Company">
+  <data key="d0">1</data>
+</edge>
+<edge source="SUSPENSION" target="Volkswagen Group of America, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="SUSPENSION" target="Chrysler (FCA US, LLC)">
+  <data key="d0">1</data>
+</edge>
+<edge source="SUSPENSION" target="Altec Industries, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SUSPENSION" target="Subaru of America, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SUSPENSION" target="ST Engineering Hackney, Inc">
+  <data key="d0">1</data>
+</edge>
+<edge source="SUSPENSION" target="Advance Stores Company, Incorporated">
+  <data key="d0">1</data>
+</edge>
+<edge source="SUSPENSION" target="Porsche Cars North America, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="SUSPENSION" target="Tesla, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="SUSPENSION" target="Jayco, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="SUSPENSION" target="SAF-Holland">
+  <data key="d0">1</data>
+</edge>
+<edge source="SUSPENSION" target="Gillig, LLC">
+  <data key="d0">2</data>
+</edge>
+<edge source="SUSPENSION" target="Lion Electric Company">
+  <data key="d0">1</data>
+</edge>
+<edge source="SUSPENSION" target="PACCAR Incorporated">
+  <data key="d0">1</data>
+</edge>
+<edge source="SUSPENSION" target="Navistar, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="Great Dane Trailers" target="TIRES">
+  <data key="d0">1</data>
+</edge>
+<edge source="Great Dane Trailers" target="WHEELS">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Tesla, Inc.">
+  <data key="d0">4</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Mercedes-Benz USA, LLC">
+  <data key="d0">11</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Lamborghini (Automobili Lamborghini)">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Pierce Manufacturing">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Kovatch Mobile Equipment Corp.">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Ferrara Fire Apparatus, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Textron Specialized Vehicles">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Gillig, LLC">
+  <data key="d0">2</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Porsche Cars North America, Inc.">
+  <data key="d0">5</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Spartan Fire, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Grand Design RV, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Chrysler (FCA US, LLC)">
+  <data key="d0">13</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Forest River, Inc.">
+  <data key="d0">8</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Jayco, Inc.">
+  <data key="d0">5</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Lonestar Specialty Vehicles">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Triple E Recreational Vehicles">
+  <data key="d0">5</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Prevost Car (US) Inc.">
+  <data key="d0">3</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Cruise LLC">
+  <data key="d0">2</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="General Motors, LLC">
+  <data key="d0">4</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Toyota Motor Engineering &amp; Manufacturing">
+  <data key="d0">4</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Ford Motor Company">
+  <data key="d0">7</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Weldon Division of Akron Brass">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Kia America, Inc.">
+  <data key="d0">4</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Jaguar Land Rover North America, LLC">
+  <data key="d0">4</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Alliance RV, LLC">
+  <data key="d0">2</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="BMW of North America, LLC">
+  <data key="d0">11</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Proterra Operating Company, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="AMETEK ICVS">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Transfer Flow Inc - Chico, CA">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Lightning eMotors Inc.">
+  <data key="d0">3</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Volvo Bus Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Brinkley RV">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Precision Circuits Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Winnebago Industries, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Nissan North America, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Daimler Trucks North America, LLC">
+  <data key="d0">3</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Midwest Fire Equipment &amp; Repair Company">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Volkswagen Group of America, Inc.">
+  <data key="d0">5</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Airstream, Inc.">
+  <data key="d0">4</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Nova Bus (US) Inc.">
+  <data key="d0">3</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Aluminum Trailer Company (ATC)">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Hyundai Motor America">
+  <data key="d0">3</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Nikola Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Isuzu Motors Limited">
+  <data key="d0">2</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Hino Motors Sales U.S.A., Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Subaru of America, Inc.">
+  <data key="d0">3</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Shyft Group">
+  <data key="d0">2</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="SmartPlug Systems, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Rosenbauer America">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Lucid USA, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Altec Industries, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Kawasaki Motors Corp., U.S.A.">
+  <data key="d0">2</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Mack Trucks, Inc.">
+  <data key="d0">5</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Volvo Trucks North America">
+  <data key="d0">4</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Lion Electric Company">
+  <data key="d0">2</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Blue Bird Body Company">
+  <data key="d0">2</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="PACCAR Incorporated">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="East Penn Manufacturing Company, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Tiffin Motorhomes, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Autocar, LLC">
+  <data key="d0">3</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Polestar Automotive USA, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="SEA Electric LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="VinFast Auto, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Foretravel, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Fox Factory, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Lordstown EV Corp">
+  <data key="d0">2</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Crysteel Manufacturing Inc">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Les Technologies Ecotuned inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Field Van, Inc">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Navistar, Inc.">
+  <data key="d0">3</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Felling Trailers, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Four Degree Trailer Company">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Daimler Vans USA, LLC">
+  <data key="d0">2</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Honda (American Honda Motor Co.)">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Alexis Fire Equipment Company">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Volvo Car USA, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Kentucky Trailer Manufacturing">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Gilbarco, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Polaris Industries Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Electra Meccanica Vehicles Corp">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="New Flyer of America, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Newell Coach Corp.">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Navico Group">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Bentley Motors, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="WARN Industries, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="Easymile Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRICAL SYSTEM" target="KTM North America, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tesla, Inc." target="SEAT BELTS">
+  <data key="d0">2</data>
+</edge>
+<edge source="Tesla, Inc." target="FORWARD COLLISION AVOIDANCE">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tesla, Inc." target="STRUCTURE">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tesla, Inc." target="STEERING">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tesla, Inc." target="BACK OVER PREVENTION">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tesla, Inc." target="PARKING BRAKE">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mercedes-Benz USA, LLC" target="ELECTRONIC STABILITY CONTROL">
+  <data key="d0">2</data>
+</edge>
+<edge source="Mercedes-Benz USA, LLC" target="STRUCTURE">
+  <data key="d0">4</data>
+</edge>
+<edge source="Mercedes-Benz USA, LLC" target="VISIBILITY">
+  <data key="d0">4</data>
+</edge>
+<edge source="Mercedes-Benz USA, LLC" target="EQUIPMENT">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mercedes-Benz USA, LLC" target="CHILD SEAT">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mercedes-Benz USA, LLC" target="EXTERIOR LIGHTING">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mercedes-Benz USA, LLC" target="TRAILER HITCHES">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mercedes-Benz USA, LLC" target="SEAT BELTS">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mercedes-Benz USA, LLC" target="FUEL SYSTEM, GASOLINE">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mercedes-Benz USA, LLC" target="TIRES">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mercedes-Benz USA, LLC" target="FUEL SYSTEM, DIESEL">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mercedes-Benz USA, LLC" target="LATCHES/LOCKS/LINKAGES">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mercedes-Benz USA, LLC" target="STEERING">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mercedes-Benz USA, LLC" target="POWER TRAIN">
+  <data key="d0">1</data>
+</edge>
+<edge source="ENGINE AND ENGINE COOLING" target="Harley-Davidson Motor Company">
+  <data key="d0">1</data>
+</edge>
+<edge source="ENGINE AND ENGINE COOLING" target="Indian Motorcycle Company">
+  <data key="d0">1</data>
+</edge>
+<edge source="ENGINE AND ENGINE COOLING" target="Jaguar Land Rover North America, LLC">
+  <data key="d0">4</data>
+</edge>
+<edge source="ENGINE AND ENGINE COOLING" target="Honda (American Honda Motor Co.)">
+  <data key="d0">2</data>
+</edge>
+<edge source="ENGINE AND ENGINE COOLING" target="Subaru of America, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="ENGINE AND ENGINE COOLING" target="BMW of North America, LLC">
+  <data key="d0">2</data>
+</edge>
+<edge source="ENGINE AND ENGINE COOLING" target="Ferrari North America, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="ENGINE AND ENGINE COOLING" target="Ford Motor Company">
+  <data key="d0">1</data>
+</edge>
+<edge source="ENGINE AND ENGINE COOLING" target="Volkswagen Group of America, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="ENGINE AND ENGINE COOLING" target="Triumph Motorcycles America, Ltd.">
+  <data key="d0">2</data>
+</edge>
+<edge source="ENGINE AND ENGINE COOLING" target="Cummins, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="ENGINE AND ENGINE COOLING" target="McLaren Automotive Incorporated">
+  <data key="d0">1</data>
+</edge>
+<edge source="ENGINE AND ENGINE COOLING" target="Lion Electric Company">
+  <data key="d0">1</data>
+</edge>
+<edge source="ENGINE AND ENGINE COOLING" target="Chrysler (FCA US, LLC)">
+  <data key="d0">1</data>
+</edge>
+<edge source="ENGINE AND ENGINE COOLING" target="Navistar, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="ENGINE AND ENGINE COOLING" target="Kawasaki Motors Corp., U.S.A.">
+  <data key="d0">1</data>
+</edge>
+<edge source="Harley-Davidson Motor Company" target="SERVICE BRAKES, HYDRAULIC">
+  <data key="d0">1</data>
+</edge>
+<edge source="Harley-Davidson Motor Company" target="FUEL SYSTEM, GASOLINE">
+  <data key="d0">1</data>
+</edge>
+<edge source="EXTERIOR LIGHTING" target="Forest River, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="EXTERIOR LIGHTING" target="PILOTCAR EV INC.">
+  <data key="d0">1</data>
+</edge>
+<edge source="EXTERIOR LIGHTING" target="Nissan North America, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="EXTERIOR LIGHTING" target="Chrysler (FCA US, LLC)">
+  <data key="d0">3</data>
+</edge>
+<edge source="EXTERIOR LIGHTING" target="Ford Motor Company">
+  <data key="d0">4</data>
+</edge>
+<edge source="EXTERIOR LIGHTING" target="Newell Coach Corp.">
+  <data key="d0">2</data>
+</edge>
+<edge source="EXTERIOR LIGHTING" target="Nova Bus (US) Inc.">
+  <data key="d0">3</data>
+</edge>
+<edge source="EXTERIOR LIGHTING" target="Harbor Freight Tools">
+  <data key="d0">1</data>
+</edge>
+<edge source="EXTERIOR LIGHTING" target="Subaru of America, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="EXTERIOR LIGHTING" target="Mack Trucks, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="EXTERIOR LIGHTING" target="Hino Motors Sales U.S.A., Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="EXTERIOR LIGHTING" target="Porsche Cars North America, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="EXTERIOR LIGHTING" target="Prevost Car (US) Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="EXTERIOR LIGHTING" target="Maxzone Auto Parts Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="EXTERIOR LIGHTING" target="Eagle Eyes Traffic Ind. Co., Ltd">
+  <data key="d0">1</data>
+</edge>
+<edge source="EXTERIOR LIGHTING" target="Jaguar Land Rover North America, LLC">
+  <data key="d0">2</data>
+</edge>
+<edge source="EXTERIOR LIGHTING" target="Ducati North America">
+  <data key="d0">1</data>
+</edge>
+<edge source="EXTERIOR LIGHTING" target="Fontaine Trailer Company">
+  <data key="d0">1</data>
+</edge>
+<edge source="EXTERIOR LIGHTING" target="Navistar, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="EXTERIOR LIGHTING" target="Rivian Automotive, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="EXTERIOR LIGHTING" target="Daimler Trucks North America, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="EXTERIOR LIGHTING" target="Bombardier Recreational Products, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="EXTERIOR LIGHTING" target="Winnebago Industries, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="EXTERIOR LIGHTING" target="Dennis Eagle Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="EXTERIOR LIGHTING" target="Autocar, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="EXTERIOR LIGHTING" target="Gratimax, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="EXTERIOR LIGHTING" target="General Motors, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="Forest River, Inc." target="PARKING BRAKE">
+  <data key="d0">1</data>
+</edge>
+<edge source="Forest River, Inc." target="EQUIPMENT">
+  <data key="d0">17</data>
+</edge>
+<edge source="Forest River, Inc." target="POWER TRAIN">
+  <data key="d0">2</data>
+</edge>
+<edge source="Forest River, Inc." target="STRUCTURE">
+  <data key="d0">4</data>
+</edge>
+<edge source="Forest River, Inc." target="SERVICE BRAKES">
+  <data key="d0">1</data>
+</edge>
+<edge source="Forest River, Inc." target="FUEL SYSTEM, GASOLINE">
+  <data key="d0">1</data>
+</edge>
+<edge source="Forest River, Inc." target="LATCHES/LOCKS/LINKAGES">
+  <data key="d0">1</data>
+</edge>
+<edge source="STRUCTURE" target="REV Recreation Group">
+  <data key="d0">1</data>
+</edge>
+<edge source="STRUCTURE" target="Altec Industries, Inc.">
+  <data key="d0">3</data>
+</edge>
+<edge source="STRUCTURE" target="Daimler Vans USA, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="STRUCTURE" target="Lode-King Industries, Ltd.">
+  <data key="d0">1</data>
+</edge>
+<edge source="STRUCTURE" target="Nova Bus (US) Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="STRUCTURE" target="Blue Bird Body Company">
+  <data key="d0">2</data>
+</edge>
+<edge source="STRUCTURE" target="Pratt Intermodal Chassis">
+  <data key="d0">1</data>
+</edge>
+<edge source="STRUCTURE" target="Jayco, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="STRUCTURE" target="Volkswagen Group of America, Inc.">
+  <data key="d0">3</data>
+</edge>
+<edge source="STRUCTURE" target="Winnebago Towable">
+  <data key="d0">3</data>
+</edge>
+<edge source="STRUCTURE" target="Nissan North America, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="STRUCTURE" target="Toyota Motor Engineering &amp; Manufacturing">
+  <data key="d0">2</data>
+</edge>
+<edge source="STRUCTURE" target="Kia America, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="STRUCTURE" target="Hyundai Translead">
+  <data key="d0">1</data>
+</edge>
+<edge source="STRUCTURE" target="T.A. Pelsue">
+  <data key="d0">1</data>
+</edge>
+<edge source="STRUCTURE" target="Daimler Trucks North America, LLC">
+  <data key="d0">4</data>
+</edge>
+<edge source="STRUCTURE" target="Wabash National Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="STRUCTURE" target="Ducati North America">
+  <data key="d0">2</data>
+</edge>
+<edge source="STRUCTURE" target="Interstate Group, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="STRUCTURE" target="Maserati North America, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="STRUCTURE" target="Starcraft RV">
+  <data key="d0">1</data>
+</edge>
+<edge source="STRUCTURE" target="Chrysler (FCA US, LLC)">
+  <data key="d0">5</data>
+</edge>
+<edge source="STRUCTURE" target="Highland Ridge RV">
+  <data key="d0">1</data>
+</edge>
+<edge source="STRUCTURE" target="Mack Trucks, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="STRUCTURE" target="Ford Motor Company">
+  <data key="d0">1</data>
+</edge>
+<edge source="STRUCTURE" target="Pierce Manufacturing">
+  <data key="d0">1</data>
+</edge>
+<edge source="STRUCTURE" target="Keystone RV Company">
+  <data key="d0">2</data>
+</edge>
+<edge source="STRUCTURE" target="Grand Design RV, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="STRUCTURE" target="Bentley Motors, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="STRUCTURE" target="Porsche Cars North America, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="STRUCTURE" target="Shred-Tech Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="STRUCTURE" target="Triple E Recreational Vehicles">
+  <data key="d0">1</data>
+</edge>
+<edge source="STRUCTURE" target="Forest River Bus, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="STRUCTURE" target="Honda (American Honda Motor Co.)">
+  <data key="d0">1</data>
+</edge>
+<edge source="STRUCTURE" target="Prevost Car (US) Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="STRUCTURE" target="Navistar, Inc.">
+  <data key="d0">3</data>
+</edge>
+<edge source="STRUCTURE" target="AROW Global Corp">
+  <data key="d0">1</data>
+</edge>
+<edge source="STRUCTURE" target="Braun Ambulances">
+  <data key="d0">2</data>
+</edge>
+<edge source="STRUCTURE" target="Lakota Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="STRUCTURE" target="Hyundai Motor America">
+  <data key="d0">1</data>
+</edge>
+<edge source="STRUCTURE" target="Indian Motorcycle Company">
+  <data key="d0">1</data>
+</edge>
+<edge source="STRUCTURE" target="General Motors, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="REV Recreation Group" target="EQUIPMENT">
+  <data key="d0">2</data>
+</edge>
+<edge source="REV Recreation Group" target="TRAILER HITCHES">
+  <data key="d0">1</data>
+</edge>
+<edge source="REV Recreation Group" target="LATCHES/LOCKS/LINKAGES">
+  <data key="d0">1</data>
+</edge>
+<edge source="Altec Industries, Inc." target="EQUIPMENT">
+  <data key="d0">6</data>
+</edge>
+<edge source="Altec Industries, Inc." target="FORWARD COLLISION AVOIDANCE">
+  <data key="d0">1</data>
+</edge>
+<edge source="SEAT BELTS" target="Volvo Car USA, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="SEAT BELTS" target="General Motors, LLC">
+  <data key="d0">3</data>
+</edge>
+<edge source="SEAT BELTS" target="Honda (American Honda Motor Co.)">
+  <data key="d0">2</data>
+</edge>
+<edge source="SEAT BELTS" target="PACCAR Incorporated">
+  <data key="d0">1</data>
+</edge>
+<edge source="SEAT BELTS" target="Chrysler (FCA US, LLC)">
+  <data key="d0">1</data>
+</edge>
+<edge source="SEAT BELTS" target="Hyundai Motor America">
+  <data key="d0">4</data>
+</edge>
+<edge source="SEAT BELTS" target="Newmar Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="SEAT BELTS" target="Porsche Cars North America, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SEAT BELTS" target="Nissan North America, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SEAT BELTS" target="Autocar, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="SEAT BELTS" target="Winnebago Industries, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SEAT BELTS" target="Ford Motor Company">
+  <data key="d0">2</data>
+</edge>
+<edge source="SEAT BELTS" target="Nova Bus (US) Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SEAT BELTS" target="Dennis Eagle Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SEAT BELTS" target="BMW of North America, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="SEAT BELTS" target="TOKAI RIKA Co LTD">
+  <data key="d0">1</data>
+</edge>
+<edge source="Volvo Car USA, LLC" target="SERVICE BRAKES, HYDRAULIC">
+  <data key="d0">1</data>
+</edge>
+<edge source="Volvo Car USA, LLC" target="STEERING">
+  <data key="d0">1</data>
+</edge>
+<edge source="Kia America, Inc." target="SERVICE BRAKES, HYDRAULIC">
+  <data key="d0">2</data>
+</edge>
+<edge source="Kia America, Inc." target="BACK OVER PREVENTION">
+  <data key="d0">2</data>
+</edge>
+<edge source="Kia America, Inc." target="FUEL SYSTEM, GASOLINE">
+  <data key="d0">2</data>
+</edge>
+<edge source="Kia America, Inc." target="LATCHES/LOCKS/LINKAGES">
+  <data key="d0">1</data>
+</edge>
+<edge source="Kia America, Inc." target="EQUIPMENT">
+  <data key="d0">1</data>
+</edge>
+<edge source="Kia America, Inc." target="POWER TRAIN">
+  <data key="d0">2</data>
+</edge>
+<edge source="Kia America, Inc." target="TRAILER HITCHES">
+  <data key="d0">1</data>
+</edge>
+<edge source="Kia America, Inc." target="STEERING">
+  <data key="d0">1</data>
+</edge>
+<edge source="Indian Motorcycle Company" target="FUEL SYSTEM, GASOLINE">
+  <data key="d0">1</data>
+</edge>
+<edge source="Indian Motorcycle Company" target="EQUIPMENT">
+  <data key="d0">1</data>
+</edge>
+<edge source="TIRES" target="Sumitomo Rubber USA, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="TIRES" target="Big Tex Trailer Manufacturing, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="TIRES" target="Sentury Tire Thailand">
+  <data key="d0">1</data>
+</edge>
+<edge source="TIRES" target="Toyo Tire Holdings of Americas, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="TIRES" target="Continental Tire the Americas, LLC">
+  <data key="d0">3</data>
+</edge>
+<edge source="TIRES" target="Dexter Axle Company">
+  <data key="d0">1</data>
+</edge>
+<edge source="TIRES" target="Wilson Trailer Company">
+  <data key="d0">1</data>
+</edge>
+<edge source="TIRES" target="Fruehauf Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="TIRES" target="Yokohama Tire Corporation">
+  <data key="d0">2</data>
+</edge>
+<edge source="TIRES" target="Vanguard National Trailer Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="TIRES" target="ST Engineering Hackney, Inc">
+  <data key="d0">1</data>
+</edge>
+<edge source="TIRES" target="Gulf States Toyota, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="TIRES" target="Toyota Motor Engineering &amp; Manufacturing">
+  <data key="d0">1</data>
+</edge>
+<edge source="TIRES" target="SAF-Holland">
+  <data key="d0">1</data>
+</edge>
+<edge source="TIRES" target="Nissan North America, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="TIRES" target="Michelin North America, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="TIRES" target="Subaru of America, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="TIRES" target="Alliance RV, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="TIRES" target="Grand Design RV, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="TIRES" target="Honda (American Honda Motor Co.)">
+  <data key="d0">1</data>
+</edge>
+<edge source="TIRES" target="Daimler Trucks North America, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="Keystone RV Company" target="EQUIPMENT">
+  <data key="d0">1</data>
+</edge>
+<edge source="Pierce Manufacturing" target="EQUIPMENT">
+  <data key="d0">1</data>
+</edge>
+<edge source="Pierce Manufacturing" target="STEERING">
+  <data key="d0">1</data>
+</edge>
+<edge source="Kovatch Mobile Equipment Corp." target="PARKING BRAKE">
+  <data key="d0">1</data>
+</edge>
+<edge source="POWER TRAIN" target="BMW of North America, LLC">
+  <data key="d0">2</data>
+</edge>
+<edge source="POWER TRAIN" target="Gillig, LLC">
+  <data key="d0">3</data>
+</edge>
+<edge source="POWER TRAIN" target="Eldorado National- California, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="POWER TRAIN" target="Subaru of America, Inc.">
+  <data key="d0">3</data>
+</edge>
+<edge source="POWER TRAIN" target="Ford Motor Company">
+  <data key="d0">8</data>
+</edge>
+<edge source="POWER TRAIN" target="Hino Motors Sales U.S.A., Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="POWER TRAIN" target="New Flyer of America, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="POWER TRAIN" target="Allison Transmission, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="POWER TRAIN" target="Platinum Driveline, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="POWER TRAIN" target="Chrysler (FCA US, LLC)">
+  <data key="d0">7</data>
+</edge>
+<edge source="POWER TRAIN" target="PACCAR Incorporated">
+  <data key="d0">2</data>
+</edge>
+<edge source="POWER TRAIN" target="Honda (American Honda Motor Co.)">
+  <data key="d0">1</data>
+</edge>
+<edge source="POWER TRAIN" target="Navistar, Inc.">
+  <data key="d0">3</data>
+</edge>
+<edge source="POWER TRAIN" target="Autocar, LLC">
+  <data key="d0">2</data>
+</edge>
+<edge source="POWER TRAIN" target="Daimler Trucks North America, LLC">
+  <data key="d0">3</data>
+</edge>
+<edge source="POWER TRAIN" target="Hyundai Motor America">
+  <data key="d0">2</data>
+</edge>
+<edge source="POWER TRAIN" target="Nova Bus (US) Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="POWER TRAIN" target="Dana Incorporated">
+  <data key="d0">2</data>
+</edge>
+<edge source="POWER TRAIN" target="E-One Incorporated">
+  <data key="d0">1</data>
+</edge>
+<edge source="POWER TRAIN" target="Jayco, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="POWER TRAIN" target="Marion Body Works Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="POWER TRAIN" target="Custom Fire Apparatus, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="POWER TRAIN" target="Blue Bird Body Company">
+  <data key="d0">1</data>
+</edge>
+<edge source="POWER TRAIN" target="Cummins, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="POWER TRAIN" target="General Motors, LLC">
+  <data key="d0">3</data>
+</edge>
+<edge source="POWER TRAIN" target="Spartan Fire, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="POWER TRAIN" target="Xos, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="BMW of North America, LLC" target="STEERING">
+  <data key="d0">1</data>
+</edge>
+<edge source="BMW of North America, LLC" target="VISIBILITY/WIPER">
+  <data key="d0">1</data>
+</edge>
+<edge source="BMW of North America, LLC" target="SEATS">
+  <data key="d0">4</data>
+</edge>
+<edge source="BMW of North America, LLC" target="VEHICLE SPEED CONTROL">
+  <data key="d0">1</data>
+</edge>
+<edge source="BMW of North America, LLC" target="SERVICE BRAKES">
+  <data key="d0">1</data>
+</edge>
+<edge source="BMW of North America, LLC" target="BACK OVER PREVENTION">
+  <data key="d0">1</data>
+</edge>
+<edge source="STEERING" target="Terberg Benschop B.V.">
+  <data key="d0">2</data>
+</edge>
+<edge source="STEERING" target="Cake 0 Emission USA Inc">
+  <data key="d0">1</data>
+</edge>
+<edge source="STEERING" target="Mack Trucks, Inc.">
+  <data key="d0">4</data>
+</edge>
+<edge source="STEERING" target="Honda (American Honda Motor Co.)">
+  <data key="d0">2</data>
+</edge>
+<edge source="STEERING" target="Volvo Trucks North America">
+  <data key="d0">2</data>
+</edge>
+<edge source="STEERING" target="Arcimoto Inc">
+  <data key="d0">1</data>
+</edge>
+<edge source="STEERING" target="Autocar, LLC">
+  <data key="d0">2</data>
+</edge>
+<edge source="STEERING" target="Nissan North America, Inc.">
+  <data key="d0">3</data>
+</edge>
+<edge source="STEERING" target="Nelson Trailers">
+  <data key="d0">1</data>
+</edge>
+<edge source="STEERING" target="General Motors, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="STEERING" target="Hyundai Translead">
+  <data key="d0">1</data>
+</edge>
+<edge source="STEERING" target="Nova Bus (US) Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="STEERING" target="Toyota Motor Engineering &amp; Manufacturing">
+  <data key="d0">1</data>
+</edge>
+<edge source="STEERING" target="Terminal Investment Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="STEERING" target="Chrysler (FCA US, LLC)">
+  <data key="d0">1</data>
+</edge>
+<edge source="STEERING" target="Ford Motor Company">
+  <data key="d0">2</data>
+</edge>
+<edge source="STEERING" target="Meritor, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="STEERING" target="Daimler Trucks North America, LLC">
+  <data key="d0">3</data>
+</edge>
+<edge source="STEERING" target="Capacity of Texas">
+  <data key="d0">1</data>
+</edge>
+<edge source="STEERING" target="Spartan Fire, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="STEERING" target="Terex Advance Mixer, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="STEERING" target="Gillig, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="STEERING" target="Lion Electric Company">
+  <data key="d0">2</data>
+</edge>
+<edge source="STEERING" target="New Flyer of America, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="STEERING" target="Williamsen-Godwin Truck Body Company LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="STEERING" target="East Manufacturing Corp.">
+  <data key="d0">1</data>
+</edge>
+<edge source="STEERING" target="Newmar Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Volvo Trucks North America">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Tiffin Motorhomes, Inc.">
+  <data key="d0">5</data>
+</edge>
+<edge source="EQUIPMENT" target="Rivian Automotive, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="DECKED">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Airstream, Inc.">
+  <data key="d0">7</data>
+</edge>
+<edge source="EQUIPMENT" target="Nova Bus (US) Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Thor Motor Coach">
+  <data key="d0">5</data>
+</edge>
+<edge source="EQUIPMENT" target="Southeast Toyota Distributors, LLC">
+  <data key="d0">2</data>
+</edge>
+<edge source="EQUIPMENT" target="Kibbi, LLC">
+  <data key="d0">2</data>
+</edge>
+<edge source="EQUIPMENT" target="Gulf Stream Coach, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Hollywood Racks">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Forest River Bus, LLC">
+  <data key="d0">2</data>
+</edge>
+<edge source="EQUIPMENT" target="Trans-Air Manufacturing Corp.">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="New Flyer of America, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Terex South Dakota, Inc.">
+  <data key="d0">3</data>
+</edge>
+<edge source="EQUIPMENT" target="Storyteller Overland">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Winnebago Industries, Inc.">
+  <data key="d0">5</data>
+</edge>
+<edge source="EQUIPMENT" target="Volvo Bus Corporation">
+  <data key="d0">2</data>
+</edge>
+<edge source="EQUIPMENT" target="Zero Motorcycles Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Firefly Integrations, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Diamond C Trailer MFG.">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Toyota Motor Engineering &amp; Manufacturing">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Kentucky Trailer Manufacturing">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="General Motors, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Outfitter Manufacturing">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Entrans International, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Hyundai Motor America">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Honda (American Honda Motor Co.)">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="SPORTSMOBILE TEXAS, INC">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Titan Bus">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Pleasure Way Industries, Ltd.">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Boreas Campers">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="ST Engineering Hackney, Inc">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Grand Design RV, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Ford Motor Company">
+  <data key="d0">2</data>
+</edge>
+<edge source="EQUIPMENT" target="Imagine Fiberglass Products Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Jayco, Inc.">
+  <data key="d0">4</data>
+</edge>
+<edge source="EQUIPMENT" target="Spartan Fire, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Triple E Recreational Vehicles">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Iowa Mold Tooling Co., Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Knapheide Manufacturing Company">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Chrysler (FCA US, LLC)">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="E-One Incorporated">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Outback customs,LLC">
+  <data key="d0">2</data>
+</edge>
+<edge source="EQUIPMENT" target="Nissan North America, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="EQUIPMENT" target="Heartland Recreational Vehicles, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="3M Transportation Safety Division">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Alamo Group Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="EQUIPMENT" target="Motor Coach Industries">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Cummins, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Lippert">
+  <data key="d0">2</data>
+</edge>
+<edge source="EQUIPMENT" target="Carrier Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Vermeer Manufacturing Company">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Shadow Trailer, LLC">
+  <data key="d0">2</data>
+</edge>
+<edge source="EQUIPMENT" target="9299-5000 Quebec Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Capri Campers, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Ducati North America">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Eveland's Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Harbor Freight Tools">
+  <data key="d0">2</data>
+</edge>
+<edge source="EQUIPMENT" target="Off Grid Trailers">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Prevost Car (US) Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Xos, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Roadtrek Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Par Nado inc">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Aluminum Trailer Company (ATC)">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Volkswagen Group of America, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="EQUIPMENT" target="Daimler Trucks North America, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Pleasant Valley Teardrop Trailers LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Maintainer Corporation of Iowa, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Nexus RVs, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Kalmar Solutions, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Subaru of America, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Suburban Manufacturing CO">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Comoto Holdings, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="EQUIPMENT" target="Lode-King Industries, Ltd.">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Adventurer Manufacturing, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="LDV, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT" target="Old School Trailers, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="Volvo Trucks North America" target="VEHICLE SPEED CONTROL">
+  <data key="d0">1</data>
+</edge>
+<edge source="Volvo Trucks North America" target="SEATS">
+  <data key="d0">1</data>
+</edge>
+<edge source="Volvo Trucks North America" target="ELECTRONIC STABILITY CONTROL">
+  <data key="d0">1</data>
+</edge>
+<edge source="Volvo Trucks North America" target="VISIBILITY">
+  <data key="d0">1</data>
+</edge>
+<edge source="Volvo Trucks North America" target="EQUIPMENT ADAPTIVE/MOBILITY">
+  <data key="d0">1</data>
+</edge>
+<edge source="Volvo Trucks North America" target="WHEELS">
+  <data key="d0">1</data>
+</edge>
+<edge source="Volvo Trucks North America" target="SERVICE BRAKES, AIR">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nissan North America, Inc." target="SERVICE BRAKES, HYDRAULIC">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nissan North America, Inc." target="BACK OVER PREVENTION">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nissan North America, Inc." target="VEHICLE SPEED CONTROL">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nissan North America, Inc." target="SEATS">
+  <data key="d0">3</data>
+</edge>
+<edge source="Nissan North America, Inc." target="LATCHES/LOCKS/LINKAGES">
+  <data key="d0">1</data>
+</edge>
+<edge source="Spartan Fire, LLC" target="PARKING BRAKE">
+  <data key="d0">1</data>
+</edge>
+<edge source="Daimler Vans USA, LLC" target="FUEL SYSTEM, GASOLINE">
+  <data key="d0">1</data>
+</edge>
+<edge source="FORWARD COLLISION AVOIDANCE" target="Prevost Car (US) Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="FORWARD COLLISION AVOIDANCE" target="Volkswagen Group of America, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="Prevost Car (US) Inc." target="SEATS">
+  <data key="d0">3</data>
+</edge>
+<edge source="Prevost Car (US) Inc." target="ENGINE">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRONIC STABILITY CONTROL" target="Ford Motor Company">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRONIC STABILITY CONTROL" target="Mack Trucks, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRONIC STABILITY CONTROL" target="Mobility Ventures LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="ELECTRONIC STABILITY CONTROL" target="Daimler Trucks North America, LLC">
+  <data key="d0">3</data>
+</edge>
+<edge source="ELECTRONIC STABILITY CONTROL" target="PACCAR Incorporated">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tiffin Motorhomes, Inc." target="FUEL SYSTEM, DIESEL">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ford Motor Company" target="SERVICE BRAKES, HYDRAULIC">
+  <data key="d0">4</data>
+</edge>
+<edge source="Ford Motor Company" target="LATCHES/LOCKS/LINKAGES">
+  <data key="d0">2</data>
+</edge>
+<edge source="Ford Motor Company" target="BACK OVER PREVENTION">
+  <data key="d0">7</data>
+</edge>
+<edge source="Ford Motor Company" target="VISIBILITY">
+  <data key="d0">3</data>
+</edge>
+<edge source="Ford Motor Company" target="PARKING BRAKE">
+  <data key="d0">2</data>
+</edge>
+<edge source="Ford Motor Company" target="ENGINE">
+  <data key="d0">2</data>
+</edge>
+<edge source="Ford Motor Company" target="WHEELS">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ford Motor Company" target="CHILD SEAT">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ford Motor Company" target="FUEL SYSTEM, GASOLINE">
+  <data key="d0">2</data>
+</edge>
+<edge source="Chrysler (FCA US, LLC)" target="BACK OVER PREVENTION">
+  <data key="d0">7</data>
+</edge>
+<edge source="Chrysler (FCA US, LLC)" target="FUEL SYSTEM, GASOLINE">
+  <data key="d0">1</data>
+</edge>
+<edge source="Chrysler (FCA US, LLC)" target="ENGINE">
+  <data key="d0">1</data>
+</edge>
+<edge source="Chrysler (FCA US, LLC)" target="SERVICE BRAKES, HYDRAULIC">
+  <data key="d0">2</data>
+</edge>
+<edge source="Chrysler (FCA US, LLC)" target="FUEL SYSTEM, DIESEL">
+  <data key="d0">2</data>
+</edge>
+<edge source="SERVICE BRAKES, HYDRAULIC" target="Jaguar Land Rover North America, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="SERVICE BRAKES, HYDRAULIC" target="CFMOTO POWERSPORTS, INC.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SERVICE BRAKES, HYDRAULIC" target="Triumph Motorcycles America, Ltd.">
+  <data key="d0">2</data>
+</edge>
+<edge source="SERVICE BRAKES, HYDRAULIC" target="Mando America Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="SERVICE BRAKES, HYDRAULIC" target="Hyundai Motor America">
+  <data key="d0">2</data>
+</edge>
+<edge source="SERVICE BRAKES, HYDRAULIC" target="Volkswagen Group of America, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SERVICE BRAKES, HYDRAULIC" target="Streamline Industries Incorporated">
+  <data key="d0">1</data>
+</edge>
+<edge source="SERVICE BRAKES, HYDRAULIC" target="Yamaha Motor Corporation, USA">
+  <data key="d0">1</data>
+</edge>
+<edge source="SERVICE BRAKES, HYDRAULIC" target="Honda (American Honda Motor Co.)">
+  <data key="d0">2</data>
+</edge>
+<edge source="SERVICE BRAKES, HYDRAULIC" target="Navistar, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="SERVICE BRAKES, HYDRAULIC" target="Braun Ambulances">
+  <data key="d0">1</data>
+</edge>
+<edge source="SERVICE BRAKES, HYDRAULIC" target="Continental Automotive Systems, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SERVICE BRAKES, HYDRAULIC" target="Jayco, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SERVICE BRAKES, HYDRAULIC" target="General Motors, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="SERVICE BRAKES, HYDRAULIC" target="Royal Enfield North America Limited">
+  <data key="d0">1</data>
+</edge>
+<edge source="SERVICE BRAKES, HYDRAULIC" target="Nikola Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="SERVICE BRAKES, HYDRAULIC" target="Suzuki Motor USA, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="PARKING BRAKE" target="Xos, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="PARKING BRAKE" target="Custom Fire Apparatus, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="PARKING BRAKE" target="Alexis Fire Equipment Company">
+  <data key="d0">1</data>
+</edge>
+<edge source="PARKING BRAKE" target="Autocar, LLC">
+  <data key="d0">2</data>
+</edge>
+<edge source="PARKING BRAKE" target="Navistar, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="PARKING BRAKE" target="Nikola Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="PARKING BRAKE" target="PACCAR Incorporated">
+  <data key="d0">1</data>
+</edge>
+<edge source="PARKING BRAKE" target="Lordstown EV Corp">
+  <data key="d0">1</data>
+</edge>
+<edge source="PARKING BRAKE" target="Bendix Commercial Vehicle Systems, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="ENGINE" target="McLaren Automotive Incorporated">
+  <data key="d0">1</data>
+</edge>
+<edge source="ENGINE" target="PACCAR Incorporated">
+  <data key="d0">1</data>
+</edge>
+<edge source="ENGINE" target="Daimler Trucks North America, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="ENGINE" target="Mack Trucks, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="ENGINE" target="Cummins, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="ENGINE" target="Buell Motorcycles">
+  <data key="d0">1</data>
+</edge>
+<edge source="ENGINE" target="Jaguar Land Rover North America, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="McLaren Automotive Incorporated" target="FUEL SYSTEM, GASOLINE">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT ADAPTIVE/MOBILITY" target="Corp. Micro Bird, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT ADAPTIVE/MOBILITY" target="Ricon Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="EQUIPMENT ADAPTIVE/MOBILITY" target="Braun Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="Corp. Micro Bird, Inc." target="SEATS">
+  <data key="d0">1</data>
+</edge>
+<edge source="General Motors, LLC" target="VISIBILITY">
+  <data key="d0">1</data>
+</edge>
+<edge source="General Motors, LLC" target="CHILD SEAT">
+  <data key="d0">1</data>
+</edge>
+<edge source="General Motors, LLC" target="FUEL SYSTEM, DIESEL">
+  <data key="d0">1</data>
+</edge>
+<edge source="General Motors, LLC" target="FUEL SYSTEM, GASOLINE">
+  <data key="d0">1</data>
+</edge>
+<edge source="Grand Design RV, LLC" target="TRAILER HITCHES">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jaguar Land Rover North America, LLC" target="VISIBILITY">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jaguar Land Rover North America, LLC" target="BACK OVER PREVENTION">
+  <data key="d0">3</data>
+</edge>
+<edge source="Jaguar Land Rover North America, LLC" target="LATCHES/LOCKS/LINKAGES">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jaguar Land Rover North America, LLC" target="SEATS">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jaguar Land Rover North America, LLC" target="CHILD SEAT">
+  <data key="d0">1</data>
+</edge>
+<edge source="VEHICLE SPEED CONTROL" target="Mack Trucks, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mack Trucks, Inc." target="VISIBILITY">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nova Bus (US) Inc." target="SEATS">
+  <data key="d0">1</data>
+</edge>
+<edge source="Honda (American Honda Motor Co.)" target="BACK OVER PREVENTION">
+  <data key="d0">2</data>
+</edge>
+<edge source="Honda (American Honda Motor Co.)" target="SEATS">
+  <data key="d0">2</data>
+</edge>
+<edge source="Honda (American Honda Motor Co.)" target="VISIBILITY">
+  <data key="d0">1</data>
+</edge>
+<edge source="LATCHES/LOCKS/LINKAGES" target="Autocar, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="LATCHES/LOCKS/LINKAGES" target="Gulf Stream Coach, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="LATCHES/LOCKS/LINKAGES" target="Kibbi, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="LATCHES/LOCKS/LINKAGES" target="Newmar Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jayco, Inc." target="VISIBILITY">
+  <data key="d0">2</data>
+</edge>
+<edge source="Jayco, Inc." target="FUEL SYSTEM, GASOLINE">
+  <data key="d0">1</data>
+</edge>
+<edge source="SEATS" target="Winnebago Industries, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SEATS" target="Lucid USA, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SEATS" target="Covercraft Industries, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="SEATS" target="Seats Incorporated">
+  <data key="d0">1</data>
+</edge>
+<edge source="SEATS" target="Bentley Motors, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SEATS" target="Capacity of Texas">
+  <data key="d0">1</data>
+</edge>
+<edge source="SEATS" target="Ferrari North America, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="Thor Motor Coach" target="FUEL SYSTEM, GASOLINE">
+  <data key="d0">1</data>
+</edge>
+<edge source="Subaru of America, Inc." target="WHEELS">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hino Motors Sales U.S.A., Inc." target="FUEL SYSTEM, DIESEL">
+  <data key="d0">1</data>
+</edge>
+<edge source="Volkswagen Group of America, Inc." target="BACK OVER PREVENTION">
+  <data key="d0">1</data>
+</edge>
+<edge source="Volkswagen Group of America, Inc." target="FUEL SYSTEM, GASOLINE">
+  <data key="d0">1</data>
+</edge>
+<edge source="PACCAR Incorporated" target="SERVICE BRAKES, AIR">
+  <data key="d0">2</data>
+</edge>
+<edge source="PACCAR Incorporated" target="FUEL SYSTEM, DIESEL">
+  <data key="d0">2</data>
+</edge>
+<edge source="PACCAR Incorporated" target="VISIBILITY">
+  <data key="d0">1</data>
+</edge>
+<edge source="CHILD SEAT" target="Evenflo Company, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="CHILD SEAT" target="Baby Trend, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="CHILD SEAT" target="Dorel Juvenile Group">
+  <data key="d0">2</data>
+</edge>
+<edge source="CHILD SEAT" target="Columbus Trading-Partners USA, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="CHILD SEAT" target="JD E-Commerce America Limited">
+  <data key="d0">1</data>
+</edge>
+<edge source="WHEELS" target="Autocar, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="WHEELS" target="Midwest Automotive Designs, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="WHEELS" target="RevHD">
+  <data key="d0">1</data>
+</edge>
+<edge source="WHEELS" target="Toyota Motor Engineering &amp; Manufacturing">
+  <data key="d0">1</data>
+</edge>
+<edge source="WHEELS" target="Stoughton Trailers, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="WHEELS" target="Bugatti">
+  <data key="d0">1</data>
+</edge>
+<edge source="Autocar, LLC" target="FUEL SYSTEM, DIESEL">
+  <data key="d0">2</data>
+</edge>
+<edge source="Daimler Trucks North America, LLC" target="VISIBILITY">
+  <data key="d0">1</data>
+</edge>
+<edge source="VISIBILITY" target="Dennis Eagle Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="VISIBILITY" target="Proterra Operating Company, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="VISIBILITY" target="Bombardier Recreational Products, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="VISIBILITY" target="Braun Ambulances">
+  <data key="d0">1</data>
+</edge>
+<edge source="Toyota Motor Engineering &amp; Manufacturing" target="FUEL SYSTEM, GASOLINE">
+  <data key="d0">1</data>
+</edge>
+<edge source="BACK OVER PREVENTION" target="Chinook Motor Coach, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="BACK OVER PREVENTION" target="Lucid USA, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="BACK OVER PREVENTION" target="Polaris Industries Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="BACK OVER PREVENTION" target="Mitsubishi Motors North America, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="Chinook Motor Coach, LLC" target="FUEL SYSTEM, GASOLINE">
+  <data key="d0">1</data>
+</edge>
+<edge source="Winnebago Industries, Inc." target="FUEL SYSTEM, GASOLINE">
+  <data key="d0">1</data>
+</edge>
+<edge source="New Flyer of America, Inc." target="SERVICE BRAKES, AIR">
+  <data key="d0">1</data>
+</edge>
+<edge source="SERVICE BRAKES, AIR" target="Lion Electric Company">
+  <data key="d0">1</data>
+</edge>
+<edge source="SERVICE BRAKES, AIR" target="Stoughton Trailers, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="SERVICE BRAKES, AIR" target="Navistar, Inc.">
+  <data key="d0">2</data>
+</edge>
+<edge source="SERVICE BRAKES, AIR" target="Bendix Commercial Vehicle Systems, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="SERVICE BRAKES, AIR" target="Hendrickson USA. L.L.C.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SERVICE BRAKES, AIR" target="Ridewell Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="SERVICE BRAKES, AIR" target="Hyundai Translead">
+  <data key="d0">1</data>
+</edge>
+<edge source="SERVICE BRAKES, AIR" target="Entegra Coach">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lucid USA, Inc." target="VISIBILITY/WIPER">
+  <data key="d0">1</data>
+</edge>
+<edge source="Cummins, Inc." target="FUEL SYSTEM, DIESEL">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ferrari North America, Inc." target="FUEL SYSTEM, GASOLINE">
+  <data key="d0">1</data>
+</edge>
+<edge source="FUEL SYSTEM, GASOLINE" target="Hyundam Industrial">
+  <data key="d0">1</data>
+</edge>
+<edge source="FUEL SYSTEM, GASOLINE" target="Hyundai Motor America">
+  <data key="d0">2</data>
+</edge>
+<edge source="FUEL SYSTEM, GASOLINE" target="Bentley Motors, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="FUEL SYSTEM, GASOLINE" target="Explorer Van Company">
+  <data key="d0">1</data>
+</edge>
+<edge source="FUEL SYSTEM, GASOLINE" target="Provan Industries, LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="FUEL SYSTEM, GASOLINE" target="Farber Specialty Vehicles">
+  <data key="d0">1</data>
+</edge>
+<edge source="FUEL SYSTEM, GASOLINE" target="Midway Specialty Vehicles">
+  <data key="d0">1</data>
+</edge>
+<edge source="FUEL SYSTEM, GASOLINE" target="Summit Bodyworks">
+  <data key="d0">1</data>
+</edge>
+<edge source="FUEL SYSTEM, GASOLINE" target="Quality Vans &amp; Specialty Vehicles">
+  <data key="d0">1</data>
+</edge>
+<edge source="FUEL SYSTEM, GASOLINE" target="Adaptive Mobility Systems Inc">
+  <data key="d0">1</data>
+</edge>
+<edge source="FUEL SYSTEM, GASOLINE" target="Industrial Video &amp; Control Co">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hyundai Motor America" target="VISIBILITY/WIPER">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hyundai Motor America" target="TRAILER HITCHES">
+  <data key="d0">1</data>
+</edge>
+<edge source="Wabash National Corporation" target="TRAILER HITCHES">
+  <data key="d0">1</data>
+</edge>
+<edge source="TRAILER HITCHES" target="Temp-Air, a division of Sunbelt Rentals">
+  <data key="d0">1</data>
+</edge>
+<edge source="TRAILER HITCHES" target="PJ Trailers">
+  <data key="d0">1</data>
+</edge>
+<edge source="TRAILER HITCHES" target="ABS Remorques">
+  <data key="d0">1</data>
+</edge>
+<edge source="SERVICE BRAKES" target="Veoneer Brake Systems, LLC">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>
